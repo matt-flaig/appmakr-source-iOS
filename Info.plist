@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMSVNRevision</key>
+	<string>3.4.8-1-g7e40ee4</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>${IDENTIFIER}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb3c15cd134df5c71b7a11539200c6346dcompointaboutadc</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>253849</string>
+	<key>FBAppId</key>
+	<string>3c15cd134df5c71b7a11539200c6346d</string>
+	<key>FBSuffix</key>
+	<string>compointaboutadc</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MMAppID</key>
+	<string>testing programmatic appid setting</string>
+	<key>MMUseTestServers</key>
+	<false/>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>UIPrerenderedIcon</key>
+	<string>True</string>
+	<key>UIStatusBarHidden</key>
+	<false/>
+</dict>
+</plist>

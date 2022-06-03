@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+  <id>http://eventful.com/atom/events/categories/technology %]</id>
+  <link href="http://eventful.com/atom/events/categories/technology %]" type="application/atom+xml" rel="self" />
+  <link href="http://eventful.com/events/categories/technology %]" type="text/html" rel="alternate" />
+  <title>Austin Technology Events, Conferences</title>
+  <subtitle>Up-to-date event feeds from eventful.com, the world's leading event website.</subtitle>
+  <rights type="xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml">Copyright &#169; 2006 
+      <a href="http://eventful.com/">Eventful, Inc.</a>  All rights reserved.  Use subject to terms of use: 
+      <a href="http://eventful.com/terms">http://eventful.com/terms</a>
+    </div>
+  </rights>
+  <generator version="1.0">EVDB::Atom</generator>
+  <opensearch:totalResults></opensearch:totalResults>
+  <opensearch:startIndex>1</opensearch:startIndex>
+  <updated>1970-01-01T00:00:00+00:00</updated>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/after-effects-cs4-essential-skills-i-training-/E0-001-027030265-8</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/after-effects-cs4-essential-skills-i-training-/E0-001-027030265-8" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>After Effects CS4 Essential Skills I Training</title>
+    <gd:when startTime="2010-02-03T09:00:00+00:00" endTime="2010-02-03T16:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Lumenbrite Training Center - Penn Field near 3601 South Congress Suite C202 , Austin, Texas, 78704, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2</id>
+          <link href="http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2" type="text/html" rel="alternate" />
+          <title>Lumenbrite Training Center - Penn Field</title>
+          <gd:contactSection label="Lumenbrite Training Center - Penn Field">
+            <gd:postalAddress>3601 South Congress Suite C202
+Austin, Texas  78704, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027030265-8'&gt;After Effects CS4 Essential Skills I Training&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-03T09:00:00+00:00'&gt;Wednesday, February 3, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-03T16:00:00+00:00'&gt;Wednesday, February 3, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027030265-8'&gt;After Effects CS4 Essential Skills I Training&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-03T09:00:00+00:00'&gt;Wednesday, February 3, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-03T16:00:00+00:00'&gt;Wednesday, February 3, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/member-connect-happy-hour-/E0-001-027592282-8</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/member-connect-happy-hour-/E0-001-027592282-8" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Member Connect Happy Hour</title>
+    <gd:when startTime="2010-02-04T17:00:00+00:00" endTime="2010-02-04T19:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Cover 3 near 2700 West Anderson Lane , Austin, Texas, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/cover-3-/V0-001-002484479-1</id>
+          <link href="http://eventful.com/austin/venues/cover-3-/V0-001-002484479-1" type="text/html" rel="alternate" />
+          <title>Cover 3</title>
+          <gd:contactSection label="Cover 3">
+            <gd:postalAddress>2700 West Anderson Lane
+Austin, Texas  , United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002484479-1'&gt;Cover 3&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;2700 West Anderson Lane&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002484479-1'&gt;Cover 3&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;2700 West Anderson Lane&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027592282-8'&gt;Member Connect Happy Hour&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-04T17:00:00+00:00'&gt;Thursday, February 4, 2010 at 5:00 PM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-04T19:00:00+00:00'&gt;Thursday, February 4, 2010 at 7:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002484479-1'&gt;Cover 3&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;2700 West Anderson Lane&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027592282-8'&gt;Member Connect Happy Hour&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-04T17:00:00+00:00'&gt;Thursday, February 4, 2010 at 5:00 PM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-04T19:00:00+00:00'&gt;Thursday, February 4, 2010 at 7:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002484479-1'&gt;Cover 3&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;2700 West Anderson Lane&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/2010-tcea-annual-convention-exposition-texas-/E0-001-021609730-1</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/2010-tcea-annual-convention-exposition-texas-/E0-001-021609730-1" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>2010 TCEA Annual Convention &amp; Exposition - Texas Computer Education Association</title>
+    <gd:when startTime="2010-02-08" endTime="2010-02-13" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Austin Convention Center near 500 East Cesar Chavez Street , Austin, Texas, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/austin-convention-center-/V0-001-000216476-3</id>
+          <link href="http://eventful.com/austin/venues/austin-convention-center-/V0-001-000216476-3" type="text/html" rel="alternate" />
+          <title>Austin Convention Center</title>
+          <gd:contactSection label="Austin Convention Center">
+            <gd:postalAddress>500 East Cesar Chavez Street
+Austin, Texas  , United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000216476-3'&gt;Austin Convention Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;500 East Cesar Chavez Street&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000216476-3'&gt;Austin Convention Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;500 East Cesar Chavez Street&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-021609730-1'&gt;2010 TCEA Annual Convention &amp; Exposition - Texas Computer Education Association&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-08'&gt;Monday, February 8, 2010 at 12:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-12'&gt;Friday, February 12, 2010 at 12:00 AM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000216476-3'&gt;Austin Convention Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;500 East Cesar Chavez Street&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-021609730-1'&gt;2010 TCEA Annual Convention &amp; Exposition - Texas Computer Education Association&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-08'&gt;Monday, February 8, 2010 at 12:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-12'&gt;Friday, February 12, 2010 at 12:00 AM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000216476-3'&gt;Austin Convention Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;500 East Cesar Chavez Street&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/photoshop-cs4-essential-skills-i-/E0-001-027274231-9</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/photoshop-cs4-essential-skills-i-/E0-001-027274231-9" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Photoshop CS4 Essential Skills I</title>
+    <gd:when startTime="2010-02-16T09:00:00+00:00" endTime="2010-02-16T16:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Lumenbrite Training Center - Penn Field near 3601 South Congress Suite C202 , Austin, Texas, 78704, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2</id>
+          <link href="http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2" type="text/html" rel="alternate" />
+          <title>Lumenbrite Training Center - Penn Field</title>
+          <gd:contactSection label="Lumenbrite Training Center - Penn Field">
+            <gd:postalAddress>3601 South Congress Suite C202
+Austin, Texas  78704, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027274231-9'&gt;Photoshop CS4 Essential Skills I&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-16T09:00:00+00:00'&gt;Tuesday, February 16, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-16T16:00:00+00:00'&gt;Tuesday, February 16, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027274231-9'&gt;Photoshop CS4 Essential Skills I&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-16T09:00:00+00:00'&gt;Tuesday, February 16, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-16T16:00:00+00:00'&gt;Tuesday, February 16, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/photoshop-cs4-essential-skills-ii-/E0-001-027274248-9</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/photoshop-cs4-essential-skills-ii-/E0-001-027274248-9" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Photoshop CS4 Essential Skills II</title>
+    <gd:when startTime="2010-02-18T09:00:00+00:00" endTime="2010-02-18T16:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Lumenbrite Training Center - Penn Field near 3601 South Congress Suite C202 , Austin, Texas, 78704, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2</id>
+          <link href="http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2" type="text/html" rel="alternate" />
+          <title>Lumenbrite Training Center - Penn Field</title>
+          <gd:contactSection label="Lumenbrite Training Center - Penn Field">
+            <gd:postalAddress>3601 South Congress Suite C202
+Austin, Texas  78704, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027274248-9'&gt;Photoshop CS4 Essential Skills II&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-18T09:00:00+00:00'&gt;Thursday, February 18, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-18T16:00:00+00:00'&gt;Thursday, February 18, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027274248-9'&gt;Photoshop CS4 Essential Skills II&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-18T09:00:00+00:00'&gt;Thursday, February 18, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-18T16:00:00+00:00'&gt;Thursday, February 18, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/2010-womens-business-conference-soaringtosuccess-/E0-001-027592285-5</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/2010-womens-business-conference-soaringtosuccess-/E0-001-027592285-5" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>2010 Women's Business Conference: "Soaring to Success"</title>
+    <gd:when startTime="2010-02-19T08:30:00+00:00" endTime="2010-02-19T17:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Norris Conference Center near 2525 West Anderson Lane , Austin, Texas, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/norris-conference-center-/V0-001-000109773-8</id>
+          <link href="http://eventful.com/austin/venues/norris-conference-center-/V0-001-000109773-8" type="text/html" rel="alternate" />
+          <title>Norris Conference Center</title>
+          <gd:contactSection label="Norris Conference Center">
+            <gd:postalAddress>2525 West Anderson Lane
+Austin, Texas  , United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000109773-8'&gt;Norris Conference Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;2525 West Anderson Lane&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000109773-8'&gt;Norris Conference Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;2525 West Anderson Lane&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027592285-5'&gt;2010 Women's Business Conference: "Soaring to Success"&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-19T08:30:00+00:00'&gt;Friday, February 19, 2010 at 8:30 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-19T17:00:00+00:00'&gt;Friday, February 19, 2010 at 5:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000109773-8'&gt;Norris Conference Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;2525 West Anderson Lane&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027592285-5'&gt;2010 Women's Business Conference: "Soaring to Success"&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-19T08:30:00+00:00'&gt;Friday, February 19, 2010 at 8:30 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-19T17:00:00+00:00'&gt;Friday, February 19, 2010 at 5:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000109773-8'&gt;Norris Conference Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;2525 West Anderson Lane&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/dreamweaver-cs4-essential-skills-i-/E0-001-027405206-1</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/dreamweaver-cs4-essential-skills-i-/E0-001-027405206-1" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Dreamweaver CS4 Essential Skills I</title>
+    <gd:when startTime="2010-02-22T09:00:00+00:00" endTime="2010-02-22T16:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Lumenbrite Training Center - Penn Field near 3601 South Congress Suite C202 , Austin, Texas, 78704, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2</id>
+          <link href="http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2" type="text/html" rel="alternate" />
+          <title>Lumenbrite Training Center - Penn Field</title>
+          <gd:contactSection label="Lumenbrite Training Center - Penn Field">
+            <gd:postalAddress>3601 South Congress Suite C202
+Austin, Texas  78704, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027405206-1'&gt;Dreamweaver CS4 Essential Skills I&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-22T09:00:00+00:00'&gt;Monday, February 22, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-22T16:00:00+00:00'&gt;Monday, February 22, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027405206-1'&gt;Dreamweaver CS4 Essential Skills I&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-22T09:00:00+00:00'&gt;Monday, February 22, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-22T16:00:00+00:00'&gt;Monday, February 22, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/robohelp-8-html-training-/E0-001-027405223-8</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/robohelp-8-html-training-/E0-001-027405223-8" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>RoboHelp 8 HTML Training</title>
+    <gd:when startTime="2010-02-22T09:00:00+00:00" endTime="2010-02-22T16:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Lumenbrite Training Center - Penn Field near 3601 South Congress Suite C202 , Austin, Texas, 78704, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2</id>
+          <link href="http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2" type="text/html" rel="alternate" />
+          <title>Lumenbrite Training Center - Penn Field</title>
+          <gd:contactSection label="Lumenbrite Training Center - Penn Field">
+            <gd:postalAddress>3601 South Congress Suite C202
+Austin, Texas  78704, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027405223-8'&gt;RoboHelp 8 HTML Training&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-22T09:00:00+00:00'&gt;Monday, February 22, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-22T16:00:00+00:00'&gt;Monday, February 22, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027405223-8'&gt;RoboHelp 8 HTML Training&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-22T09:00:00+00:00'&gt;Monday, February 22, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-22T16:00:00+00:00'&gt;Monday, February 22, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/mastering-new-web-digital-world-foundations-and-/E0-001-027958482-0</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/mastering-new-web-digital-world-foundations-and-/E0-001-027958482-0" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Mastering the New Web in the Digital World- Foundations and Implementation</title>
+    <gd:when startTime="2010-02-23T18:00:00+00:00" endTime="2010-02-23T21:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="AT&amp;amp;T Executive Education and Conference Center near 1900 University Avenue , Austin, Texas, 78705, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/att-executive-education-and-conference-center-/V0-001-001697266-4</id>
+          <link href="http://eventful.com/austin/venues/att-executive-education-and-conference-center-/V0-001-001697266-4" type="text/html" rel="alternate" />
+          <title>AT&amp;amp;T Executive Education and Conference Center</title>
+          <gd:contactSection label="AT&amp;amp;T Executive Education and Conference Center">
+            <gd:postalAddress>1900 University Avenue
+Austin, Texas  78705, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-001697266-4'&gt;AT&amp;amp;T Executive Education and Conference Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;1900 University Avenue&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78705&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-001697266-4'&gt;AT&amp;amp;T Executive Education and Conference Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;1900 University Avenue&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78705&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027958482-0'&gt;Mastering the New Web in the Digital World- Foundations and Implementation&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-23T18:00:00+00:00'&gt;Tuesday, February 23, 2010 at 6:00 PM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-23T21:00:00+00:00'&gt;Tuesday, February 23, 2010 at 9:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-001697266-4'&gt;AT&amp;amp;T Executive Education and Conference Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;1900 University Avenue&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78705&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027958482-0'&gt;Mastering the New Web in the Digital World- Foundations and Implementation&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-23T18:00:00+00:00'&gt;Tuesday, February 23, 2010 at 6:00 PM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-23T21:00:00+00:00'&gt;Tuesday, February 23, 2010 at 9:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-001697266-4'&gt;AT&amp;amp;T Executive Education and Conference Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;1900 University Avenue&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78705&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/dreamweaver-cs4-essential-skills-ii-/E0-001-027405213-1</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/dreamweaver-cs4-essential-skills-ii-/E0-001-027405213-1" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Dreamweaver CS4 Essential Skills II</title>
+    <gd:when startTime="2010-02-25T09:00:00+00:00" endTime="2010-02-25T16:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Lumenbrite Training Center - Penn Field near 3601 South Congress Suite C202 , Austin, Texas, 78704, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2</id>
+          <link href="http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2" type="text/html" rel="alternate" />
+          <title>Lumenbrite Training Center - Penn Field</title>
+          <gd:contactSection label="Lumenbrite Training Center - Penn Field">
+            <gd:postalAddress>3601 South Congress Suite C202
+Austin, Texas  78704, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027405213-1'&gt;Dreamweaver CS4 Essential Skills II&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-25T09:00:00+00:00'&gt;Thursday, February 25, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-25T16:00:00+00:00'&gt;Thursday, February 25, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027405213-1'&gt;Dreamweaver CS4 Essential Skills II&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-25T09:00:00+00:00'&gt;Thursday, February 25, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-25T16:00:00+00:00'&gt;Thursday, February 25, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/flash-cs4-comprehensive-training-/E0-001-027405230-8</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/flash-cs4-comprehensive-training-/E0-001-027405230-8" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Flash CS4 Comprehensive Training</title>
+    <gd:when startTime="2010-02-25T09:00:00+00:00" endTime="2010-02-25T16:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Lumenbrite Training Center - Penn Field near 3601 South Congress Suite C202 , Austin, Texas, 78704, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2</id>
+          <link href="http://eventful.com/austin/venues/lumenbrite-training-center-penn-field-/V0-001-002171750-2" type="text/html" rel="alternate" />
+          <title>Lumenbrite Training Center - Penn Field</title>
+          <gd:contactSection label="Lumenbrite Training Center - Penn Field">
+            <gd:postalAddress>3601 South Congress Suite C202
+Austin, Texas  78704, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027405230-8'&gt;Flash CS4 Comprehensive Training&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-25T09:00:00+00:00'&gt;Thursday, February 25, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-25T16:00:00+00:00'&gt;Thursday, February 25, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027405230-8'&gt;Flash CS4 Comprehensive Training&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-25T09:00:00+00:00'&gt;Thursday, February 25, 2010 at 9:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-25T16:00:00+00:00'&gt;Thursday, February 25, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002171750-2'&gt;Lumenbrite Training Center - Penn Field&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;3601 South Congress Suite C202&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78704&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/mastering-new-web-digital-world-foundations-and-/E0-001-027958456-5</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/mastering-new-web-digital-world-foundations-and-/E0-001-027958456-5" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Mastering the New Web in the Digital World- Foundations and Implementation</title>
+    <gd:when startTime="2010-02-26T10:00:00+00:00" endTime="2010-02-26T16:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Multi-World Technologies near 100 Congress Avenue 20th Floor , Austin, Texas, 78701, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/multiworld-technologies-/V0-001-003599883-0</id>
+          <link href="http://eventful.com/austin/venues/multiworld-technologies-/V0-001-003599883-0" type="text/html" rel="alternate" />
+          <title>Multi-World Technologies</title>
+          <gd:contactSection label="Multi-World Technologies">
+            <gd:postalAddress>100 Congress Avenue 20th Floor
+Austin, Texas  78701, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-003599883-0'&gt;Multi-World Technologies&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;100 Congress Avenue 20th Floor&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78701&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-003599883-0'&gt;Multi-World Technologies&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;100 Congress Avenue 20th Floor&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78701&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027958456-5'&gt;Mastering the New Web in the Digital World- Foundations and Implementation&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-26T10:00:00+00:00'&gt;Friday, February 26, 2010 at 10:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-26T16:00:00+00:00'&gt;Friday, February 26, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-003599883-0'&gt;Multi-World Technologies&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;100 Congress Avenue 20th Floor&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78701&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027958456-5'&gt;Mastering the New Web in the Digital World- Foundations and Implementation&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-26T10:00:00+00:00'&gt;Friday, February 26, 2010 at 10:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-26T16:00:00+00:00'&gt;Friday, February 26, 2010 at 4:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-003599883-0'&gt;Multi-World Technologies&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;100 Congress Avenue 20th Floor&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78701&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/central-texas-linux-users-/E0-001-020641413-8@2010020816</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/central-texas-linux-users-/E0-001-020641413-8@2010020816" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Central Texas Linux Users Group Meeting</title>
+    <gd:when startTime="2010-02-08T16:00:00+00:00" endTime="2010-02-08T18:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Sun Microsystems (Austin, TX) near 9300 Riata Court Park , Austin, Texas, 78752, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/sun-microsystems-austin-tx-/V0-001-002245030-3</id>
+          <link href="http://eventful.com/austin/venues/sun-microsystems-austin-tx-/V0-001-002245030-3" type="text/html" rel="alternate" />
+          <title>Sun Microsystems (Austin, TX)</title>
+          <gd:contactSection label="Sun Microsystems (Austin, TX)">
+            <gd:postalAddress>9300 Riata Court Park
+Austin, Texas  78752, United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002245030-3'&gt;Sun Microsystems (Austin, TX)&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;9300 Riata Court Park&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78752&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002245030-3'&gt;Sun Microsystems (Austin, TX)&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;9300 Riata Court Park&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78752&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-020641413-8@2010020816'&gt;Central Texas Linux Users Group Meeting&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-08T16:00:00+00:00'&gt;Monday, February 8, 2010 at 4:00 PM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-08T18:00:00+00:00'&gt;Monday, February 8, 2010 at 6:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002245030-3'&gt;Sun Microsystems (Austin, TX)&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;9300 Riata Court Park&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78752&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-020641413-8@2010020816'&gt;Central Texas Linux Users Group Meeting&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-02-08T16:00:00+00:00'&gt;Monday, February 8, 2010 at 4:00 PM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-02-08T18:00:00+00:00'&gt;Monday, February 8, 2010 at 6:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002245030-3'&gt;Sun Microsystems (Austin, TX)&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;9300 Riata Court Park&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='postal-code'&gt;78752&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/aliza-sherman-covers-sxsw-/E0-001-027974293-8@2010031208</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/aliza-sherman-covers-sxsw-/E0-001-027974293-8@2010031208" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Aliza Sherman Covers SXSW Interactive for Web Worker Daily</title>
+    <gd:when startTime="2010-03-12T08:00:00+00:00" endTime="2010-03-12T19:00:00+00:00" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Austin Convention Center near 500 East Cesar Chavez Street , Austin, Texas, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/austin-convention-center-/V0-001-000216476-3</id>
+          <link href="http://eventful.com/austin/venues/austin-convention-center-/V0-001-000216476-3" type="text/html" rel="alternate" />
+          <title>Austin Convention Center</title>
+          <gd:contactSection label="Austin Convention Center">
+            <gd:postalAddress>500 East Cesar Chavez Street
+Austin, Texas  , United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000216476-3'&gt;Austin Convention Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;500 East Cesar Chavez Street&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000216476-3'&gt;Austin Convention Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;500 East Cesar Chavez Street&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027974293-8@2010031208'&gt;Aliza Sherman Covers SXSW Interactive for Web Worker Daily&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-03-12T08:00:00+00:00'&gt;Friday, March 12, 2010 at 8:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-03-12T19:00:00+00:00'&gt;Friday, March 12, 2010 at 7:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000216476-3'&gt;Austin Convention Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;500 East Cesar Chavez Street&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-027974293-8@2010031208'&gt;Aliza Sherman Covers SXSW Interactive for Web Worker Daily&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-03-12T08:00:00+00:00'&gt;Friday, March 12, 2010 at 8:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-03-12T19:00:00+00:00'&gt;Friday, March 12, 2010 at 7:00 PM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-000216476-3'&gt;Austin Convention Center&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='street-address'&gt;500 East Cesar Chavez Street&lt;/span&gt;, &lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+  <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <id>http://eventful.com/austin/events/eye-tracking-research-application-etra-2010-/E0-001-026216493-8</id>
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <link href="http://eventful.com/austin/events/eye-tracking-research-application-etra-2010-/E0-001-026216493-8" type="text/html" rel="alternate" />
+    <gd:eventStatus value="http://schemas.google.com/g/2005#event.confirmed" />
+    <gd:visibility value="http://schemas.google.com/g/2005#event.public" />
+    <gd:transparency value="http://schemas.google.com/g/2005#event.transparent" />
+    <title>Eye Tracking Research &amp; Application (ETRA 2010)</title>
+    <gd:when startTime="2010-03-22" endTime="2010-03-25" />
+    <gd:where rel="http://schemas.google.com/g/2005#event" valueString="Communication By Gaze Interaction (COGAIN) near  , Austin, Texas, United States">
+      <gd:entryLink>
+        <entry xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+          <id>http://eventful.com/austin/venues/communication-by-gaze-interaction-cogain-/V0-001-002693988-0</id>
+          <link href="http://eventful.com/austin/venues/communication-by-gaze-interaction-cogain-/V0-001-002693988-0" type="text/html" rel="alternate" />
+          <title>Communication By Gaze Interaction (COGAIN)</title>
+          <gd:contactSection label="Communication By Gaze Interaction (COGAIN)">
+            <gd:postalAddress>
+Austin, Texas  , United States</gd:postalAddress>
+          </gd:contactSection>
+          <content type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002693988-0'&gt;Communication By Gaze Interaction (COGAIN)&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+          <media:text type="html">
+&lt;div class='vcard'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002693988-0'&gt;Communication By Gaze Interaction (COGAIN)&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#contact"  />
+        </entry>
+      </gd:entryLink>
+    </gd:where>
+    <content type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-026216493-8'&gt;Eye Tracking Research &amp; Application (ETRA 2010)&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-03-22'&gt;Monday, March 22, 2010 at 12:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-03-24'&gt;Wednesday, March 24, 2010 at 12:00 AM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002693988-0'&gt;Communication By Gaze Interaction (COGAIN)&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <media:text type="html">
+&lt;div class='vevent'&gt;
+&lt;a class='url summary uid' href='http://eventful.com/events/E0-001-026216493-8'&gt;Eye Tracking Research &amp; Application (ETRA 2010)&lt;/a&gt;
+&lt;span&gt;from &lt;abbr class='dtstart' title='2010-03-22'&gt;Monday, March 22, 2010 at 12:00 AM&lt;/abbr&gt; to &lt;abbr class='dtend' title='2010-03-24'&gt;Wednesday, March 24, 2010 at 12:00 AM&lt;/abbr&gt;
+&lt;/span&gt;
+&lt;div class='vcard location'&gt;
+&lt;a class='fn org url uid' href='http://eventful.com/venues/V0-001-002693988-0'&gt;Communication By Gaze Interaction (COGAIN)&lt;/a&gt;
+&lt;div class='adr'&gt;
+&lt;span class='locality'&gt;Austin&lt;/span&gt;, &lt;span class='region'&gt;Texas&lt;/span&gt; &lt;span class='country-name'&gt;United States&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</media:text>
+<category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/g/2005#event"  />
+  </entry>
+</feed>

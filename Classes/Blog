@@ -1,0 +1,729 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:cc="http://web.resource.org/cc/" xmlns="http://purl.org/rss/1.0/"> 
+ 
+<channel rdf:about="http://blog.pragmaticstudio.com/"> 
+<title>Pragmatic Studio</title> 
+<link>http://blog.pragmaticstudio.com/</link> 
+<description>Top developer training from the folks who wrote the books</description> 
+<dc:language>en-US</dc:language> 
+<dc:creator /> 
+<dc:date>2009-11-10T14:59:53-08:00</dc:date> 
+<admin:generatorAgent rdf:resource="http://www.typepad.com/" /> 
+ 
+ 
+<items> 
+<rdf:Seq><rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/11/mastering-rails-iphone-and-clojure-in-reston-.html" /> 
+<rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/11/audiobookshelf-interview.html" /> 
+<rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/10/early-registration-discount-ends-this-friday-oct-30.html" /> 
+<rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/10/alum.html" /> 
+<rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/10/announcing-mastering-ruby-and-rails-studio.html" /> 
+<rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/10/clojure-studio.html" /> 
+<rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/10/iphone-on-rails.html" /> 
+<rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/10/new-private-courses.html" /> 
+<rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/09/interview-dave-and-chad-on-advanced-ruby.html" /> 
+<rdf:li rdf:resource="http://blog.pragmaticstudio.com/2009/09/iphone-and-rails-studios-in-long-beach.html" /> 
+</rdf:Seq> 
+</items> 
+ 
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.feedburner.com/PragmaticStudio" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="pragmaticstudio" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com" /></channel> 
+ 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/11/mastering-rails-iphone-and-clojure-in-reston-.html"> 
+<title>Mastering Rails, iPhone, and Clojure in Reston </title> 
+<link>http://blog.pragmaticstudio.com/2009/11/mastering-rails-iphone-and-clojure-in-reston-.html</link> 
+<description>We appreciate that many of you are trying to budget training for early next year. And we really appreciate you using the notify list to let us know which courses you're interested in. Based on that input, we've been hunkered...</description> 
+<content:encoded>&lt;p&gt;
+We appreciate that many of you are trying to budget training for early next year.  And we really appreciate you using the notify list to let us know which courses you're interested in.  Based on that input, we've been hunkered down (snowed in, actually) scheduling dates and locations for our next round of Studios.  
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Today we're excited to announce a trio of Studios for you to choose from in Reston, VA in March 2010.
+&lt;/p&gt;
+ 
+&lt;h2&gt;&lt;a href="http://pragmaticstudio.com/mastering-ruby-rails"&gt;Mastering Ruby and Rails Studio&lt;/a&gt;&lt;/h2&gt;
+&lt;h4&gt;March 9-12, 2010&lt;/h4&gt;
+ 
+&lt;p&gt;
+The &lt;a href="http://pragmaticstudio.com/mastering-ruby-rails"&gt;Mastering Ruby and Rails
+Studio&lt;/a&gt; is a highly interactive, team-based workshop, combining a mixture of relaxed
+instruction and hands-on lab work. We've taken the best of our Advanced Ruby and
+Advanced Rails courses and designed this 4-day master course for practicing developers.
+You'll learn directly from Dave Thomas and Chad Fowler, and come away feeling like a
+Ruby and Rails Master!
+&lt;/p&gt;
+ 
+&lt;h2&gt;&lt;a href="http://pragmaticstudio.com/iphone"&gt;iPhone Studio&lt;/a&gt;&lt;/h2&gt;
+&lt;h4&gt;March 9-12, 2010&lt;/h4&gt;
+ 
+&lt;p&gt;
+The &lt;a href="http://pragmaticstudio.com/iphone"&gt;iPhone Studio&lt;/a&gt; is a 4-day, hands-on
+training course where you'll learn how to create full-featured iPhone applications from
+two experienced iPhone developers and authors: Bill Dudney and Daniel Steinberg. You'll
+come away from this Studio knowing Xcode, Interface Builder, Objective-C, Cocoa Touch
+programming, and the APIs included in the iPhone SDK 3.1. You'll be ready to create your
+first iPhone application, or improve upon your existing application.  Many folks who have attended this course have applications selling in the App Store, including 
+&lt;a href="http://blog.pragmaticstudio.com/2009/10/alum.html"&gt;Swizzle&lt;/a&gt; and
+&lt;a href="http://blog.pragmaticstudio.com/2009/11/audiobookshelf-interview.html"&gt;AudioBookShelf&lt;/a&gt;.
+&lt;/p&gt;
+ 
+&lt;h2&gt;&lt;a href="http://pragmaticstudio.com/clojure"&gt;Clojure Studio&lt;/a&gt;&lt;/h2&gt;
+&lt;h4&gt;March 15-17, 2010&lt;/h4&gt;
+ 
+&lt;p&gt;
+The &lt;a href="http://pragmaticstudio.com/clojure"&gt;Clojure Studio&lt;/a&gt; is a new 3-day course where you'll learn to program Clojure with Rich Hickey, the creator of the language, and Stuart Halloway, author of the popular book &lt;em&gt;Programming Clojure&lt;/em&gt;.
+Clojure is a dynamic programming language with the elegance of a good scripting language, and the concurrent power of the Java Virtual Machine. You've heard about functional programming. This is your chance to really get into it and learn directly from the experts.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+The early registration discount (save $300) runs through January 15th, but we don't recommend waiting until the last minute.  Seating is limited and, well, signing up now is easier than remembering to sign up later. 
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Thanks for your continued support, and we look forward to seeing you in Reston in 2010!
+&lt;/p&gt;</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-11-10T14:59:53-08:00</dc:date> 
+</item> 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/11/audiobookshelf-interview.html"> 
+<title>Alumni App Spotlight: AudioBookShelf</title> 
+<link>http://blog.pragmaticstudio.com/2009/11/audiobookshelf-interview.html</link> 
+<description>David Smith, another alumni of our iPhone Studio, just released his latest iPhone app: AudioBookShelf. I immediately noticed the attractive interface, and the price point intrigued me. David graciously agreed to share his thoughts on not only iPhone app development,...</description> 
+<content:encoded>&lt;p&gt;
+David Smith, another alumni of our iPhone Studio, just released his latest iPhone app: &lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=335221247&amp;mt=8"&gt;AudioBookShelf&lt;/a&gt;. I immediately noticed the attractive interface, and the price point intrigued me. David graciously agreed to share his thoughts on 
+not only iPhone app development, but also advertising, free vs. paid apps, and the rewards of listening to your users. 
+&lt;/p&gt;
+ 
+&lt;div style="float:right; margin: 0 0 0 2em;"&gt;
+&lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=335221247&amp;mt=8"&gt;&lt;img src="http://clarkware.typepad.com/photos/alumniapps/audiobookshelf-1.png"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=335221247&amp;mt=8"&gt;&lt;img src="http://clarkware.typepad.com/photos/alumniapps/audiobookshelf-2.png"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+How did you get started developing applications for the iPhone?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Within a few weeks of the SDK first being released I started investigating developing for the iPhone.  I had no previous experience developing for the Mac or iPhone.  At the time I was a pretty advanced Ruby developer.  I got started by reading the first few chapters of the Hillegass book, and then just started coding.  I found the sample code projects provided by Apple to be a good starting point and, combined with a lot of experimentation, I got rolling pretty well.  
+&lt;/p&gt;
+&lt;p&gt;
+My first app was (no surprise) a tip calculator. (I wonder if tip calculators are the new Hello World for iPhone?)  I never actually submitted it, but used the experience to gain confidence.  My first commercial project was called &lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=295660203&amp;mt=8"&gt;PerDiem FY09&lt;/a&gt;, which is a travel allowance reference for government travelers.  This was pretty successful and was actually featured by Apple at one point.  &lt;/p&gt;
+&lt;p&gt;
+With one success in the bag, I took the iPhone Studio class to take me from a level of knowing &lt;strong&gt;a&lt;/strong&gt; way to do it to knowing &lt;strong&gt;THE BEST&lt;/strong&gt; way to do it.  This really helped me move away from a lot of the bad habits I had picked up being self taught.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+Not long after attending the iPhone Studio, you released your first application: &lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=311507490&amp;mt=8"&gt;Audiobooks&lt;/a&gt;.  It gives users free access to over 9,800 hours of audiobooks in the public domain taken from the LibriVox Project.  How did you get the idea for this app?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+I actually just stumbled across the LibriVox Project right around the time that I was looking for my next app idea. As soon as I saw it I knew that creating an app front end to this amazing repository of audiobooks would be a hit.  I had seen a few text-based book apps in the store, but had always thought that the platform leant itself toward audio far more than it did to reading long-form text on such a small screen.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+On the surface, creating this app seems straightforward.  Using the AVFramework, it's fairly easy to play audio files on the iPhone.  But Audiobooks is actually streaming the audio over the network and giving users playback controls.  That's a bit trickier.  How did you go about solving this?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Streaming was by far the trickiest part of developing this app.  It had actually started as just being a download player, but we were &lt;a href="http://blog.travelingclassics.com/2009/06/20/audiobooks-temporarily-unavailable/"&gt;required&lt;/a&gt; to switch this to streaming. This transition brought with it a much higher level of complexity, especially in dealing with keeping the user's bookmarks and handling networking interruptions.  In the end, we were able to make it work mostly still relying on the AVFrameworks, with a few bits of &amp;quot;special sauce&amp;quot; mixed in.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+As a free app, Audiobooks uses a unique advertising model.  Can you share more about that?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+When we first launched Audiobooks we thought about monetizing it by providing mass media advertising from one of the various providers (AdMob, Quattro Wireless, etc.).  But the more we investigated these platforms the less we wanted to use them.  We heard story after story of low fill rates, bad CPMs, and generally bad experiences.  
+&lt;/p&gt;
+&lt;p&gt;
+So instead we decided to create a little web application that would serve our own advertisements.  We had tried to sell these directly, but in the end we found that we made the most money instead by simply using this to promote our paid applications.  This has helped us draw tens of thousands of ad views to our products at no out-of-pocket cost to us. 
+&lt;/p&gt;
+&lt;p&gt;
+This cross-promotion has helped us turn the corner and make iPhone app development truly profitable.  Audiobooks has well over 500k users, and grows by thousands a day. It is exposure that we could never afford to pay for.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+So are you doing this full time now?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Yup, and actually a month ago I hired my first iPhone developer to help take some of the load off me.  We do around $10-15k/month in revenue which is more than enough to create a sustainable business.  We aren't one of those crazy stories of developers who make millions in a few months, but instead we have been profitable for almost a year now.  We have really low costs and so far have been able to build a sustainable business model by keeping our costs low and our ideas fresh.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+You also have a separate (paid) version of Audiobooks lets users download the audio content for offline playback.  Apple recently started allowing free apps to use in-app purchase.  In retrospect, would you have used in-app purchase to unlock this feature?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+I suspect we will be adding in-app purchase to our free version, but probably still maintain the paid app.  The App Store is all about exposure so I think having top 10 apps in both the Paid and Free lists is huge for us.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+You recently released &lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=335221247&amp;mt=8"&gt;AudioBookShelf&lt;/a&gt;: a collection of hand-picked classics with a completely redesigned interface.  What were the motivating factors behind the new app?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+We had received a lot of feedback from our users that they like the concept of having thousands of audiobooks available to them, but found the discovery part of that intimidating.  They asked us to curate the experience a bit and instead of giving them thousands of choices, do the leg work for them and pick the finest offerings and compile those into one app.  
+&lt;/p&gt;
+&lt;p&gt;
+We then took that idea and expanded on it, upgrading both the audio and visual experience.  We have edited and cleaned up the audio files to enhance the listening experience.  We then went to work on making the visual interface much more attractive and accessible to a broad audience.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+There's been a lot of talk about the race to the bottom in terms of pricing on the App Store.  I'm glad to see you're bucking the trend by charging $9 for AudioBookShelf, although I'm sure it was a difficult decision.  How did you eventually settle on a price?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+There is undeniably a &amp;quot;race to the bottom&amp;quot; in the App Store.  I'm not the kind of person who will complain about that.  There is a lot of money to be made at $0.99 (in fact that is were we have made most of our money).  The challenge really becomes in differentiation more than anything.  We created AudioBookShelf to be different and better than our other Audiobook apps.  
+&lt;/p&gt;
+&lt;p&gt;
+We felt that the app was most certainly worth $9, especially when you put that in the context of the broader audiobook market where even classic books often cost around $10 &lt;strong&gt;each&lt;/strong&gt;.  We also wanted to raise the bar for ourselves and there is something surprisingly different in your own mindset when working on something that you want to be worth more&amp;mdash;I think you end up with something that is that much better.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+I must say, the new interface and web site look amazing!  You used some clever animations, as well.  It's obvious that you focused a lot more on the aesthetics in this app than anything else.  How did you go about redesigning the app?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+The first thing we did was decide on a landscape orientation.  This is very unusual for a book app, but we felt it made it feel more like a real bookshelf. Once we made that decision, the goal just became creating a user experience that closely matched the real world including a bookshelf you can browse, books you can pull off the shelf, and a player that looks like an open book.  We think we really hit the mark in terms of visual appeal.  The whole experience is very immersive and almost game-like.
+&lt;/p&gt;
+&lt;p&gt;
+We did all the animations with Core Animation which was a treat to use. It was really nice how just combining a few translations, rotations, and scalings can give such a strong visual appeal.  The really tricky part with that was not over-doing it.  Because Core Animation makes it so easy to make things move, it was tempting to get carried away and end up with a mess.  Instead, we hoped to narrow the use of these kinds of things to make them almost unnoticed.  They should hopefully just feel natural.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+Did you hire an outside designer or do it yourself?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+We hired a designer to do all the graphics in the app.  There was no way a couple of engineers could give it the shine we wanted, so we found an artist who could. She did a really nice job of taking our concepts and creating polished UI elements for us.  
+&lt;/p&gt;
+&lt;p&gt;
+Technically speaking, the integration was all done by splitting her Photoshop renderings into component PNGs and then styling the various UI elements accordingly.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+Any hints as to what you're planning to work on next?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+We are looking to expand both the quality and type of audiobook-related apps that we offer.  This will include new partnerships with publishers to bring more &amp;quot;Best Sellers&amp;quot; titles to the App Store, rather than just the classics we have now.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+Any advice for folks who have an idea for an iPhone app?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+I would say that iPhone app development can definitely be thought of as a Gold Rush; there are a lot of players and a lot of money to be made.  You'll be fine so long as you go into it with a sober mindset that it is hard work and a good amount of luck to become successful.  I have heard all too often stories of people disappointed that their sweet idea didn't hit it big right away.  It takes time, effort, and patience to win in the App Store (at least for 99.9%).  But there is definitely a huge market here and lots of room still left in the store.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+Thanks, David, and congrats on releasing AudioBookShelf!
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+You can check out &lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=335221247&amp;mt=8"&gt;AudioBookShelf in the App Store&lt;/a&gt;.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Ready to create your own iPhone application?  Consider joining us in Long Beach in December for the next &lt;a href="http://pragmaticstudio.com/iphone"&gt;iPhone SDK Studio&lt;/a&gt;!
+&lt;/p&gt;</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-11-02T11:28:44-08:00</dc:date> 
+</item> 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/10/early-registration-discount-ends-this-friday-oct-30.html"> 
+<title>Early Registration Discount Ends this Friday, Oct 30</title> 
+<link>http://blog.pragmaticstudio.com/2009/10/early-registration-discount-ends-this-friday-oct-30.html</link> 
+<description>Your chance to save $300 with early registration ends this Friday for: iPhone SDK on December 1-4 Mastering Ruby and Rails on December 1-4 If you need a little extra time to pay your registration, select "Pay by Check" when...</description> 
+<content:encoded>&lt;p&gt;
+Your chance to &lt;strong&gt;save $300&lt;/strong&gt; with early registration ends this Friday for:
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;a href="http://pragmaticstudio.com/iphone"&gt;iPhone SDK&lt;/a&gt; on December 1-4&lt;br/&gt;
+&lt;a href="https://pragmaticstudio.com/mastering-ruby-rails"&gt;Mastering Ruby and Rails&lt;/a&gt; on December 1-4
+&lt;/p&gt;
+ 
+&lt;p&gt;
+If you need a little extra time to pay your registration, select "Pay by Check" when you register.  Your seat is secured immediately, but your payment (by check or credit card) isn't due until November 10th.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+So, before you put on your Halloween costume and rifle through your kid's candy sack, sign-up for a Studio.  We'd love to see you there!
+&lt;/p&gt;
+ 
+</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-10-26T11:56:46-07:00</dc:date> 
+</item> 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/10/alum.html"> 
+<title>Alumni App Spotlight: SWIZZLE</title> 
+<link>http://blog.pragmaticstudio.com/2009/10/alum.html</link> 
+<description>Paul Warren, an alumni of the Cocoa and iPhone Studios, recently released his iPhone puzzle game called SWIZZLE. When I first saw it, I was blown away by the gorgeous animations and custom controls. It's a clever game, too! I...</description> 
+<content:encoded>&lt;p&gt;
+Paul Warren, an alumni of the Cocoa and iPhone Studios, recently released his iPhone puzzle game called &lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=331520383&amp;mt=8"&gt;SWIZZLE&lt;/a&gt;.  When I first saw it, I was blown away by the gorgeous animations and custom controls.  It's a clever game, too!  I asked Paul to share his thoughts on developing games for the iPhone.
+&lt;/p&gt;
+ 
+&lt;div style="float:right; margin: 0 0 0 2em;"&gt;
+&lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=331520383&amp;mt=8"&gt;&lt;img src="http://clarkware.typepad.com/photos/alumniapps/swizzle-1.png"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=331520383&amp;mt=8"&gt;&lt;img src="http://clarkware.typepad.com/photos/alumniapps/swizzle-2.png"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+How did you get started developing games for the iPhone?
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Having spent 20 years as a corporate software developer (mostly in assembler), my plan
+had been to develop software for the Mac. I'd been learning Cocoa and attended the
+Pragmatic Studio Cocoa training course here in Denver. One of the teachers was Bill
+Dudney and he suggested (somewhat tongue-in-cheek) that we all drop everything
+and start developing iPhone apps. He mentioned something about it being "lots of fun and
+a chance to make some money". So that night I changed plans&amp;mdash;it's all Bill's fault!
+&lt;/p&gt;
+&lt;p&gt;
+Initially I considered writing a utility app, but the idea of a simple game was
+appealing. The only problem was I hadn't written a game since I first taught myself
+assembler on a Commodore 64 (remember those?). Curiously, the C64 had hardware "sprites"
+which were great for games. And that's probably why I liked playing with Core Animation
+layers on the iPhone so much. There's a lot of overlap between sprites and layers, but
+layers are much more powerful.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;
+SWIZZLE feels like a unique puzzle game.  Where did you come up with the idea for it?
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+While struggling to sleep that night, I tried to think of something that would be a great fit for the iPhone and its touch interface.  Swiping seemed so natural on the device and that got me thinking of a swipe that creates a flip effect.  And if you can flip horizontally, then why not vertically.  That way, pieces could move around. 
+&lt;/p&gt;
+&lt;p&gt;
+So I got up early (3 am) and coded up a basic version of the app for the Mac just to see if it would work.  It didn't have any animation, just the flip results. I could see that the puzzle was tricky to solve, but not quite difficult enough.  Then I added diagonals and it started to get very cool. The diagonal flipping on the iPhone really surprised me.  I thought I had messed up because tiles turned sideways.  But I realized that not only did it look cool, it also gave the correct result and added significantly to the challenge.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;
+It's easy to start playing, but also gets quite challenging.  What level are you proficient up to?
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+I can play them all now, though level 7 is challenging even for me.  I've learned a lot of tricks over months of testing.  I might make some tips and tricks videos to pass on some of those techniques!
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;
+Did you have a specific audience in mind for SWIZZLE?
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Puzzlers, Rubik's Cube players, and anyone who likes a challenge. Even kids can play the 2x2 level and get a sense of the how the tiles move around.  It can look a little intimidating at first, but I think almost anyone can play and hopefully start to get hooked.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;
+Did you study the underlying puzzle mathematics (dihedral groups)?
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Ha!  Not really.  I studied Math and Computer Science at college, but didn't do any additional research for SWIZZLE.  But you never know what concepts stick there in the back of your mind.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;
+It's obvious just looking at SWIZZLE that you really sweated the details.  Is there anything you're especially proud of?
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+The custom controls on the selection screen took a lot of work to get right. The idea was always to have the player select the puzzle from a large set of numbers, but I hate having to type in a numbers. The Apple controls didn't really fit the design, so I set about creating my own combination lock wheels.  
+&lt;/p&gt;
+&lt;p&gt;
+Most people seem to think they are done in OpenGL, but it's actually a set of transformed CALayers. In fact, the entire game is done with layers and Core Animation. The animation of the rows and columns was pretty straight forward, but the diagonals were tough to get right.  I learned that sublayer transforms can provide a powerful animation grouping effect.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+How did you know when the game was ready to be released?
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+This is one of the toughest areas.  Any good programmer will tell you that his app is never finished.  There are always new features you can add or improvements to game play and feel, but you need to draw a line. I spent way too long "tuning" the animations to look just right when I probably would have been better served by using the 80-20 rule, especially for the first release.  
+&lt;/p&gt;
+&lt;p&gt;
+In the end I simply decided on a list of features that would make a complete game but
+not take another year to code and tune. Even then, I could have spent a lot of time
+tweaking features, images, and especially animations. But I set a date to complete it
+and pretty much stuck to it. I missed the self-imposed deadline only by a few days to
+resolve a couple bugs. My wife insisted only I would have noticed them.  :-)
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+What are you hoping to add in the next version of SWIZZLE?
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Facebook and Twitter integration seem very popular right now and obviously have
+promotional advantages, too.  I'd like to add some integrated training to get over the
+initial learning curve and hopefully get people hooked.  One idea would be to hard code
+the first 10 games on the early levels to provide a progressive level of difficulty.
+Images on the tiles are another option, but diagonals would make it far too difficult.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+What advice would you give folks who are getting into iPhone game development?
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Do not give up your day job. It's a VERY hard market to crack and the competition is intense.  Most games require a significant investment in development time, even apparently simple ones like SWIZZLE.  Games often only provide a small return unless they break into the top 10 list or are exceptionally well promoted. If you do decide to give it a try, be prepared to work really hard and sweat the details.  Users can tell very quickly if something has been rushed or shortcuts have been taken.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+Now that SWIZZLE is on the App Store, can you tell us what you're planning to work on next?
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+The Apple developer community is extremely supportive and I want to to give something back.  I'm planning to create some screencasts in the areas where I have built up expertise, especially in the area of Core Animation, layers, and custom controls. There's a lot of potential there for creating an application with a unique look and feel, yet still be intuitive for iPhone users.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;
+Thanks, Paul, and congrats on releasing SWIZZLE!
+&lt;/strong&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+You can check out &lt;a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=331520383&amp;mt=8"&gt;SWIZZLE in the App Store&lt;/a&gt; and support Paul's work for only $1.99.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Ready to create your own iPhone game?  Consider joining us in Long Beach in December for the next &lt;a href="http://pragmaticstudio.com/iphone"&gt;iPhone SDK Studio&lt;/a&gt;!
+&lt;/p&gt;</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-10-16T13:27:01-07:00</dc:date> 
+</item> 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/10/announcing-mastering-ruby-and-rails-studio.html"> 
+<title>Mastering Ruby and Rails Studio</title> 
+<link>http://blog.pragmaticstudio.com/2009/10/announcing-mastering-ruby-and-rails-studio.html</link> 
+<description>When we announced the Rails Studio was coming to Long Beach in December, a number of you in the area let us know that you'd prefer an advanced course. Well, we were paying attention! The only problem was we didn't...</description> 
+<content:encoded>&lt;p&gt;
+When we announced the Rails Studio was coming to Long Beach in December, a number of you in the area let us know that you'd prefer an advanced course.  Well, we were paying attention!  The only problem was we didn't know which advanced course you wanted: Ruby or Rails?  
+&lt;/p&gt;
+ 
+&lt;p&gt;
+So Dave and Chad had the brilliant idea of offering both, in a 4-day course we're calling &lt;a href="http://pragmaticstudio.com/mastering-ruby-rails"&gt;Mastering Ruby and Rails&lt;/a&gt;.  You'll get the best of their Advanced Ruby and Advanced Rails courses in a single Studio, with a fun new twist: you'll work in teams.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Rather than simply picking disparate topics from each course, the guys have designed this Studio around the creation of a sophisticated Rails application.  They'll weave relevant topics into the project lifecycle and in the labs you'll work in teams to build this application.  Along the way, you'll bump into design and coding challenges that typically cause Rails applications to grow in complexity, and you'll find yourself asking &amp;quot;What's a good way to solve this problem?&amp;quot; But now you won't be alone.  We'll all discuss the issues and explore solutions together.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;a href="http://pragmaticstudio.com/mastering-ruby-rails"&gt;Registration&lt;/a&gt; is now open!  We'll be holding this course in lieu of the Rails course we previously announced.  Save $300 by registering before October 24th.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+We hope you'll join us in Long Beach!
+&lt;/p&gt;</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-10-12T17:47:02-07:00</dc:date> 
+</item> 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/10/clojure-studio.html"> 
+<title>Clojure Studio</title> 
+<link>http://blog.pragmaticstudio.com/2009/10/clojure-studio.html</link> 
+<description>Today we're excited to announce an upcoming Clojure Studio taught by Rich Hickey, the creator of the language, and Stuart Halloway, author of the popular book Programming Clojure. This three-day course is a great way to learn functional programming in...</description> 
+<content:encoded>&lt;p&gt;
+Today we're excited to announce an upcoming &lt;a href="http://pragmaticstudio.com/clojure"&gt;Clojure Studio&lt;/a&gt; taught by Rich Hickey, the creator of the language, and Stuart Halloway, author of the popular book &lt;em&gt;Programming Clojure&lt;/em&gt;.  This three-day course is a great way to learn functional programming in a language designed for everyday use... and learn from the best!
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Why Clojure?  Well, it's always good for programmers to get out of the box and learn new languages.  The state of the art is constantly changing, and we want to help you stay on top of your game.  Clojure has some compelling features, and it's gaining mindshare among top programmers.  You've heard about functional programming.  This is your chance to &lt;em&gt;really&lt;/em&gt; get into it and learn directly from the experts.  You just might end up adopting Clojure as your general-purpose language of choice.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+We're planning to offer this as a public course in early 2010 in Reston, VA.  We're announcing it early so you can start making plans to attend.  Check out the &lt;a href="http://pragmaticstudio.com/clojure"&gt;outline&lt;/a&gt; for some of the topics you'll learn and more details.  
+&lt;/p&gt;
+ 
+&lt;p&gt;
+If you're keen on attending, we'd really appreciate it if you'd get on the &lt;a href="http://pragmaticstudio.com/notify/clojure"&gt;notify list&lt;/a&gt;.  That'll help us gauge interest, and by leaving your email we'll let you know as soon as registration opens!
+&lt;/p&gt;</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-10-07T07:35:20-07:00</dc:date> 
+</item> 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/10/iphone-on-rails.html"> 
+<title>iPhone on Rails</title> 
+<link>http://blog.pragmaticstudio.com/2009/10/iphone-on-rails.html</link> 
+<description>I (Mike) recently gave a tutorial at the 360iDev conference on how to create iPhone applications that talk to Rails applications. I've posted the presentation and sample projects with a write-up on my blog. If you need a backend for...</description> 
+<content:encoded>&lt;p&gt;
+I (Mike) recently gave a tutorial at the 360iDev conference on how to create iPhone applications that talk to Rails applications.  I've posted the presentation and sample projects with a write-up on my &lt;a href="http://clarkware.com/cgi/blosxom/2009/10/06/iPhoneOnRails"&gt;blog&lt;/a&gt;.  
+If you need a backend for your iPhone app or a mobile companion to your Rails app, check it out.  
+&lt;/p&gt;
+ 
+&lt;p&gt;
+Oh, and don't forget to join us in Long Beach on December 1-4 for 4 full days of hands-on &lt;a href="http://pragmaticstudio.com/iphone"&gt;iPhone training&lt;/a&gt;!
+&lt;/p&gt;</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-10-06T06:15:50-07:00</dc:date> 
+</item> 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/10/new-private-courses.html"> 
+<title>New Private Courses</title> 
+<link>http://blog.pragmaticstudio.com/2009/10/new-private-courses.html</link> 
+<description>In addition to our public courses, we also offer courses on demand in a private team setting. And we’re always on the lookout for practical tools to help teams excel. Today we’re excited to announce three new private courses, taught...</description> 
+<content:encoded>&lt;p&gt;
+In addition to our public courses, we also offer courses on demand in a private team setting.  And we’re always on the lookout for practical tools to help teams excel.  Today we’re excited to announce three new private courses, taught by experts in their field:
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;a href="http://pragmaticstudio.com/erlang"&gt;Erlang in Practice&lt;/a&gt;: We live in a chaotic world that often requires concurrent, distributed, and fault-tolerant systems.  Designing these systems with traditional programming languages just doesn’t scale.  Erlang is a functional programming language designed for the massively-parallel, networked applications of the future.  Invest in Erlang now, and you’ve got a jump on the competition.  Kevin Smith, an experienced Erlang developer, will teach your team how to effectively apply Erlang on your projects in this three-day course.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;a href="http://pragmaticstudio.com/git"&gt;Transitioning to Git&lt;/a&gt;: Version control systems should work with you, not against you.  Git is a distributed version control system (DVCS) that helps your developers be more productive and efficient.  And that translates into short and long-term benefits across your projects.  Scott Chacon, a leading expert on Git, will help your team quickly transition to Git and use it to your advantage in this two-day course.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;a href="http://pragmaticstudio.com/ee"&gt;ExpressionEngine&lt;/a&gt;:  You don’t need to be a programmer, a database administrator, or a systems expert to build dynamic websites that scale.  ExpressionEngine is a flexible content management system (CMS) used by web designers “in the know”.  It lets you design, deploy, and manage your websites without fuss.  Ryan Irelan, a noted ExpressionEngine expert and developer, will help your team of web designers and developers quickly get up to speed on ExpressionEngine in this three-day course.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+These courses are currently available for private, on-site training sessions.  You'll get the same top-shelf instructors and content you've come to expect from The Pragmatic Studio, taught at your location and on your schedule.  Now, we realize training budgets can be tight this time of year (especially this year).  If this is the case at your company, we hope that by announcing these courses now you'll have time to encourage your manager to consider these courses in next year's budget.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;a href="mailto:info@pragmaticstudio.com?subject=Quote for Private Training"&gt;Contact us&lt;/a&gt; to schedule your next Pragmatic Studio course!  Our instructors would love the opportunity to help your team grow in these hands-on courses.
+&lt;/p&gt;</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-10-01T05:44:19-07:00</dc:date> 
+</item> 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/09/interview-dave-and-chad-on-advanced-ruby.html"> 
+<title>Interview: Dave and Chad on Advanced Ruby</title> 
+<link>http://blog.pragmaticstudio.com/2009/09/interview-dave-and-chad-on-advanced-ruby.html</link> 
+<description>The Advanced Ruby Studio is coming up next month (early registration ends soon!), and folks often ask what to expect in our advanced classes. So I asked Dave Thomas and Chad Fowler (the instructors) to share a few of their...</description> 
+<content:encoded>&lt;p&gt;
+The &lt;a href="http://pragmaticstudio.com/ruby"&gt;Advanced Ruby Studio&lt;/a&gt; is coming up next month (early registration ends soon!), and folks often ask what to expect in our advanced classes.  So I asked Dave Thomas and Chad Fowler (the instructors) to share a few of their thoughts on the Advanced Ruby class.
+&lt;/p&gt;
+ 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Mike: I have to admit, I'm always a bit intimidated by the prospect of attending advanced classes.  I'm afraid everyone else will be leaps and bounds ahead of me, and I won't be able to keep up.  In general, how do folks know when they're ready for the Advanced Ruby course?&lt;/em&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;Dave:&lt;/strong&gt; I think you're ready for the advanced course when you're comfortable with Ruby. You'll know the syntax, and know the more commonly used standard classes and libraries. You'll be happy at the command line, and you'll feel OK knocking out Ruby code.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;Chad&lt;/strong&gt;: With any class, the skill level of the participants is going to vary.
+Some students are way ahead and some are behind the rest when we do
+the Advanced Ruby course. What I've found is that no matter the skill
+level of the attendee, there's a lot to learn in this course. We cover
+some deep fundamentals that I think will change the way a newer Ruby
+programmer conceptualizes the language. We also cover many of the
+lesser understood corners of the language so even the more experienced
+Rubyists have plenty to learn. Dave and I both tend to learn something
+new in each of these courses. It's amazing how deep Ruby is.
+&lt;/p&gt;
+ 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Mike: We've noticed that alumni of the Rails course tend to come back for the Advanced Ruby class.  It seems that folks gain a deeper appreciation for Ruby after they've started writing their first Rails app.  How will Rails developers benefit from attending the Advanced Ruby course?
+&lt;/em&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;Dave:&lt;/strong&gt; Rails is all about long-term productivity. And because you write Ruby to create Rails applications, then the better you know Ruby, the better you'll write Rails applications. But there's more than that. If you currently write Rails, you'll know that it relies heavily on Ruby metaprogramming techniques. And by the end of this course, you'll know how those techniques work, and you'll be able to apply them to write new shortcuts for your own applications.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;Chad:&lt;/strong&gt; I remember the first time I saw Rails. I looked at how ActiveRecord
+and ActionController worked and said to myself, "Yea, that makes
+sense. I can see how he did that." Obviously I hadn't thought of doing
+it that way myself or maybe I'd have already written something like
+Rails. But because I was well grounded in Ruby's more advanced
+techniques, Rails didn't surprise me. I think that's part of why I was
+able to pick it up so quickly early on when there weren't any books or
+many tutorials to learn from.
+&lt;/p&gt;
+&lt;p&gt;
+As Rails evolves, that same rule applies. The more you know about
+Ruby, the more you know about Rails. So as I always say to new Rails
+programmers, Ruby is the path to Rails mastery.
+&lt;/p&gt;
+ 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;
+Mike: It's obvious in watching you teach this course that you're having a lot of fun.  Which topic do you most enjoy teaching in the Advanced Ruby course?
+&lt;/em&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;Dave:&lt;/strong&gt; I really enjoy teaching the Ruby Object Model section (because it's fun watching all the light bulbs go on). But the most fun overall is learning new things: Chad and I tend to rock and roll a bit, and every class I learn some new facet of Ruby as we explore.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;Chad:&lt;/strong&gt; It's really hard to say. I like so many of the content sections, but
+they're different with every class. Sometimes the Domain-Specific
+Languages section turns into a really fun group conversation.
+Sometimes that happens in the dynamic language design section. For me,
+it's often about what the group brings to the class as much as it is
+about the specific content we prepare.
+&lt;/p&gt;
+&lt;p&gt;
+That being said, being the language nerd I am, I really like going
+through the internals of the Ruby interpreter and showing people how
+Ruby actually works.
+&lt;/p&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;
+Mike: You recently updated the Advanced Ruby course to include Ruby 1.9 topics.  Which new syntax or language features are you most excited about in Ruby 1.9?
+&lt;/em&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;Dave:&lt;/strong&gt; I think the adult side of me likes the much improved performance and the incredible multinationalization support (probably the best of any language out there). The kid in me loves the tricks you can do with the new regular expression engine, and the extra metaprogramming support.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;strong&gt;Chad:&lt;/strong&gt; I love all the new Proc stuff. I think that makes me an odd-ball, but
+I think the &lt;tt&gt;-&gt;{}&lt;/tt&gt; syntax will get natural to Rubyists over time, and
+we'll all appreciate the brevity. I also like that &lt;tt&gt;#===&lt;/tt&gt; is an alias
+for &lt;tt&gt;#call&lt;/tt&gt;, allowing Procs to participate in case statement matching
+more cleanly.
+&lt;/p&gt;
+&lt;p&gt;
+I agree with Dave's picks as well. In fact, the more I touch Ruby 1.9
+the more excited I get about it.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+&lt;em&gt;
+Mike: Thanks, guys!  I remember the first time I sat in on the course.  Although I was already comfortable with Ruby, learning some of the advanced techniques you guys use gave me a lot more confidence.  I started looking at my Ruby code (and Rails apps) differently.  I started digging deeper into Ruby libraries I was already using or considering using.  The upshot is I'm writing better Ruby code these days and it's taking me less time to get stuff done.
+&lt;/em&gt;
+&lt;/p&gt;
+ 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+The next &lt;a href="http://pragmaticstudio.com/ruby"&gt;Advanced Ruby Studio&lt;/a&gt; is in Denver, CO on October 19-21.  Sign up by Sept. 25th (that's next Friday) and save $300 on early registration.  It's a great way to meet Dave and Chad, and learn from the Ruby masters!
+&lt;/p&gt;
+ 
+ 
+ 
+</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-09-16T07:32:35-07:00</dc:date> 
+</item> 
+<item rdf:about="http://blog.pragmaticstudio.com/2009/09/iphone-and-rails-studios-in-long-beach.html"> 
+<title>iPhone and Rails Studios in Long Beach</title> 
+<link>http://blog.pragmaticstudio.com/2009/09/iphone-and-rails-studios-in-long-beach.html</link> 
+<description>The Pragmatic Studio is coming to Southern California, and we're bringing two popular courses! Join us in Long Beach this December to learn how to build iPhone or Rails applications like the pros. Registration is now open for both courses....</description> 
+<content:encoded>&lt;p&gt;
+The Pragmatic Studio is coming to Southern California, and we're bringing two
+popular courses!  Join us in Long Beach this December to learn how to build iPhone or Rails applications like the pros.  Registration is now open for both courses.  
+&lt;/p&gt;
+ 
+&lt;p&gt;
+It's been a while since we've visited SoCal, and we've heard from a number of folks holding out for these Studios to come their direction.  So we suspect these courses will sell out fairly quickly.  If you wait until December feels &amp;quot;right around the corner&amp;quot;, you may miss out.  Plus you can save $300 on early registration!
+&lt;/p&gt;
+ 
+&lt;p&gt;
+It's a double-header week:
+&lt;/p&gt;
+ 
+&lt;h2&gt;&lt;a href="http://pragmaticstudio.com/iphone"&gt;iPhone Studio&lt;/a&gt;&lt;/h2&gt;
+ 
+&lt;p&gt;
+The &lt;a href="http://pragmaticstudio.com/iphone"&gt;iPhone Studio&lt;/a&gt; is a 4-day course on December 1-4 at the &lt;a href="http://pragmaticstudio.com/iphone/locations"&gt;Hilton Long Beach&lt;/a&gt;.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+In this Studio you'll learn how to create full-featured iPhone applications
+from two experienced iPhone developers and authors: Bill Dudney and Daniel
+Steinberg. You'll come away from this Studio knowing Xcode, Interface Builder,
+Objective-C, Cocoa Touch programming, and the APIs included in the iPhone SDK
+3.1. You'll be ready to create your first iPhone application, or improve upon
+your existing application.
+&lt;/p&gt;
+ 
+&lt;h2&gt;&lt;a href="http://pragmaticstudio.com/rails"&gt;Rails Studio&lt;/a&gt;&lt;/h2&gt;
+ 
+&lt;p&gt;
+The &lt;a href="http://pragmaticstudio.com/rails"&gt;Rails Studio&lt;/a&gt; is a 3-day course on December 1-3 at the &lt;a href="http://pragmaticstudio.com/rails/locations"&gt;Hilton Long Beach&lt;/a&gt;.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+In this Studio you'll learn how to build high-quality web applications fast
+from Dave Thomas and Chad Fowler. You'll come away from this Studio with the
+confidence and skills to build your own Rails applications: from idea to
+deployment. If you're just getting into Rails, or you've started building a
+Rails application but need help putting all the pieces together, this course
+is for you.
+&lt;/p&gt;
+ 
+&lt;p&gt;
+We hope to see you in sunny Southern California!
+&lt;/p&gt;</content:encoded> 
+ 
+ 
+ 
+<dc:creator>Mike Clark</dc:creator> 
+<dc:date>2009-09-11T10:08:17-07:00</dc:date> 
+</item> 
+ 
+ 
+</rdf:RDF><!-- ph=1 --><!-- nhm:dynamic-ssi -->

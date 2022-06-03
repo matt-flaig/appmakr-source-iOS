@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mp4</key>
+	<string>video</string>
+	<key>m4v</key>
+	<string>video</string>
+	<key>mov</key>
+	<string>video</string>
+	<key>avi</key>
+	<string>video</string>
+	<key>aac</key>
+	<string>audio</string>
+	<key>mp3</key>
+	<string>audio</string>
+	<key>wav</key>
+	<string>audio</string>
+	<key>aiff</key>
+	<string>audio</string>
+	<key>jpeg</key>
+	<string>image</string>
+	<key>gif</key>
+	<string>image</string>
+	<key>tif</key>
+	<string>image</string>
+	<key>jpg</key>
+	<string>image</string>
+	<key>tiff</key>
+	<string>image</string>
+	<key>png</key>
+	<string>image</string>
+</dict>
+</plist>

@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" > 
+	<channel> 
+		<copyright>Copyright 2010 Yelp, Inc. All rights reserved.</copyright> 
+		<title>Roney S. on Yelp</title> 
+		<link>http://www.yelp.com/user_details?userid=WA3RpHUqQMssmesm2CPe9Q</link> 
+		<description>Yelp - Roney&#39;s most recent reviews on Yelp.</description> 
+		<item> 
+			<pubDate>Sat, 06 Jun 2009 12:52:40  PST</pubDate> 
+			<title>Dairy Queen (5/5) on Yelp</title> 
+			<link>http://www.yelp.com/biz/dairy-queen-austell#hrid:Cw28RdG1Kme0UJbOJOb4UA</link> 
+			<description>This location offers everything great that DQ has to offer:  courteous service, fresh food, &amp; awesome ice cream!  But the incredible kicker is that they have free wifi!!!  No password or special login&amp;#8230;</description> 
+			<geo:long>-84.614402771</geo:long>	
+			<geo:lat>33.8275985718</geo:lat> 
+		</item> 
+		<item> 
+			<pubDate>Fri, 16 Jan 2009 13:54:53  PST</pubDate> 
+			<title>Bay Breeze (5/5) on Yelp</title> 
+			<link>http://www.yelp.com/biz/bay-breeze-mableton#hrid:NzcahGJWSa3ixlJxqBG8kw</link> 
+			<description>The restaurant is owned by 2 Greek brothers that specialize in giving super generous portions for the prices charged.
+ 
+The facility itself was once a Ryan's Family Steakhouse but with their drastic&amp;#8230;</description> 
+			<geo:long>-84.595921</geo:long>	
+			<geo:lat>33.815241</geo:lat> 
+		</item> 
+		<item> 
+			<pubDate>Fri, 16 Jan 2009 13:36:01  PST</pubDate> 
+			<title>House of China (3/5) on Yelp</title> 
+			<link>http://www.yelp.com/biz/house-of-china-mableton#hrid:7SYv-7ItG5r3M3ApBrAKCg</link> 
+			<description>I ate a late lunch hours ago and the food was very good.  It had been years since I had eaten there.
+ 
+The location is virtually next door to Bay Breeze which is next to impossible to pass up which&amp;#8230;</description> 
+			<geo:long>-84.5952987671</geo:long>	
+			<geo:lat>33.8153991699</geo:lat> 
+		</item> 
+		<item> 
+			<pubDate>Wed, 09 Apr 2008 15:16:47  PST</pubDate> 
+			<title>Mexico Lindo Restaurant (4/5) on Yelp</title> 
+			<link>http://www.yelp.com/biz/mexico-lindo-restaurant-mableton#hrid:Hn8ArCOc1AtZD9aIh4O1Tg</link> 
+			<description>I've been living in Mableton since November 1992 and my first trip to Mexico Lindo was April 8, 2008 while my family was vacationing in SC.
+ 
+I discovered that the restaurant was once a Sizzler but one&amp;#8230;</description> 
+			<geo:long>-84.5787963867</geo:long>	
+			<geo:lat>33.8188018799</geo:lat> 
+		</item> 
+		<item> 
+			<pubDate>Wed, 09 Apr 2008 15:09:02  PST</pubDate> 
+			<title>Cho Won Buffet (5/5) on Yelp</title> 
+			<link>http://www.yelp.com/biz/cho-won-buffet-duluth#hrid:X8JetQUaz7d9dP5W9iiIYw</link> 
+			<description>I had no clue what to expect when a friend took me there for lunch.
+ 
+The meat section prior to grilling almost grossed me out since I was not mentally prepared to see raw meat.
+ 
+Once the meats were&amp;#8230;</description> 
+			<geo:long>-84.137558</geo:long>	
+			<geo:lat>33.957435</geo:lat> 
+		</item> 
+	</channel> 
+</rss>

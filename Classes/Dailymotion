@@ -1,0 +1,735 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss" xmlns:dm="http://www.dailymotion.com/dmrss"> 
+   <channel> 
+   <title>Dailymotion - heygary's most recent videos</title> 
+   <link>http://www.dailymotion.com/user/heygary/1</link> 
+   <description></description> 
+    <itunes:subtitle>Dailymotion - Heygary's Most Recent Videos</itunes:subtitle> 
+    <itunes:summary></itunes:summary> 
+   <itunes:owner> 
+      <itunes:name>Dailymotion</itunes:name> 
+      <itunes:email>rss@dailymotion.com</itunes:email> 
+   </itunes:owner> 
+   <itunes:author>Heygary</itunes:author> 
+   <itunes:image href="http://www.dailymotion.com/images/dailymotion_itunes.jpg"/> 
+   <itunes:explicit>no</itunes:explicit> 
+   <itunes:category text="TV &amp; Film" /> 
+   <language>en-US</language> 
+   <lastBuildDate>Tue, 02 Feb 2010 18:21:40 +0100</lastBuildDate> 
+      <image> 
+          <url>http://www.dailymotion.com/images/dailymotion.jpg</url> 
+          <title>Dailymotion - heygary's most recent videos</title> 
+          <link>http://www.dailymotion.com/user/heygary/1</link> 
+          <width>400</width> 
+          <height>144</height> 
+      </image> 
+        <dm:link rel="uql" href="http://www.dailymotion.com/rss/user/heygary/1" type="application/rss+xml"/> 
+        <dm:link rel="sort_by_commented-week" title="Most Commented" href="http://www.dailymotion.com/rss/commented-week/user/heygary/1" type="application/rss+xml"/> 
+        <dm:link rel="sort_by_visited-week" title="Most Viewed" href="http://www.dailymotion.com/rss/visited-week/user/heygary/1" type="application/rss+xml"/> 
+        <dm:link rel="sort_by_rated-week" title="Best Rated" href="http://www.dailymotion.com/rss/rated-week/user/heygary/1" type="application/rss+xml"/> 
+        <dm:link rel="next" href="http://www.dailymotion.com/rss/user/heygary/2" type="application/rss+xml"/> 
+        <dm:link rel="nextUql" href="http://www.dailymotion.com/rss/user/heygary/2" type="application/rss+xml"/> 
+        <item> 
+            <title>The Wonderful wWizard Of Love</title> 
+            <link>http://www.dailymotion.com/video/x62db3_the-wonderful-wwizard-of-love_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x62db3_the-wonderful-wwizard-of-love_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/552/881/10188255:jpeg_preview_medium.jpg?20080901202628" style="border: 2px solid #B9D3FE;"></a><p></p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/cryin">cryin</a> <a href="http://www.dailymotion.com/tag/Marshall">Marshall</a> <a href="http://www.dailymotion.com/tag/Crying">Crying</a> <a href="http://www.dailymotion.com/tag/concert">concert</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/pop">pop</a> <a href="http://www.dailymotion.com/tag/accoustic">accoustic</a> <a href="http://www.dailymotion.com/tag/show">show</a> <a href="http://www.dailymotion.com/tag/webisode">webisode</a> <a href="http://www.dailymotion.com/tag/wonderful">wonderful</a> <a href="http://www.dailymotion.com/tag/wizard">wizard</a> <a href="http://www.dailymotion.com/tag/love">love</a> <br />Posted: 08 July 2008<br />Rating: 5.0<br />Votes: 2<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary></itunes:summary> 
+            <itunes:subtitle></itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>2</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x62db3_the-wonderful-wwizard-of-love_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>218</dm:views> 
+            <dm:comments>1</dm:comments> 
+            <dm:favorites>1</dm:favorites> 
+            <dm:id>x62db3</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x62db3?session_id=&amp;referer=&amp;country=US&amp;key=5rwl1d74ib0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=5ecf05b58561ef02dfc3ac3c736a26e0</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 1 year ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Tue, 08 Jul 2008 22:41:29 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x62db3_the-wonderful-wwizard-of-love_music</guid> 
+            <media:title>The Wonderful wWizard Of Love</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/552/881/10188255:jpeg_preview_large.jpg?20080901202628" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x62db3_the-wonderful-wwizard-of-love_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x62db3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x62db3" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x62db3_the-wonderful-wwizard-of-love_music">The Wonderful wWizard Of Love</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Watch more music videos, in HD!</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x62db3" type="application/x-shockwave-flash" duration="245" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x62db3.flv?auth=1265736100_80176586df11b20073dd1d6365972bf4" type="video/x-flv" duration="245" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>cryin, Marshall, Crying, concert, rock, punk, pop, accoustic, show, webisode, wonderful, wizard, love</itunes:keywords> 
+            <media:category label="cryin">cryin</media:category> 
+            <media:category label="Marshall">Marshall</media:category> 
+            <media:category label="Crying">Crying</media:category> 
+            <media:category label="concert">concert</media:category> 
+            <media:category label="rock">rock</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="pop">pop</media:category> 
+            <media:category label="accoustic">accoustic</media:category> 
+            <media:category label="show">show</media:category> 
+            <media:category label="webisode">webisode</media:category> 
+            <media:category label="wonderful">wonderful</media:category> 
+            <media:category label="wizard">wizard</media:category> 
+            <media:category label="love">love</media:category> 
+        </item> 
+        <item> 
+            <title>Cryin' Marshall - June Webisode</title> 
+            <link>http://www.dailymotion.com/video/x62cmm_cryin-marshall-june-webisode_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x62cmm_cryin-marshall-june-webisode_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/473/781/10187374:jpeg_preview_medium.jpg?20080711162018" style="border: 2px solid #B9D3FE;"></a><p></p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Cryin">Cryin</a> <a href="http://www.dailymotion.com/tag/Marshall">Marshall</a> <a href="http://www.dailymotion.com/tag/Crying">Crying</a> <a href="http://www.dailymotion.com/tag/concert">concert</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/pop">pop</a> <a href="http://www.dailymotion.com/tag/accoustic">accoustic</a> <a href="http://www.dailymotion.com/tag/show">show</a> <a href="http://www.dailymotion.com/tag/webisode">webisode</a> <br />Posted: 08 July 2008<br />Rating: 5.0<br />Votes: 2<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary></itunes:summary> 
+            <itunes:subtitle></itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>2</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x62cmm_cryin-marshall-june-webisode_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>155</dm:views> 
+            <dm:comments>3</dm:comments> 
+            <dm:favorites>1</dm:favorites> 
+            <dm:id>x62cmm</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x62cmm?session_id=&amp;referer=&amp;country=US&amp;key=3dzz52ajpd0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=30a7c5d4601238f5ea574d3cf60cdf17</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 1 year ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Tue, 08 Jul 2008 22:00:43 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x62cmm_cryin-marshall-june-webisode_music</guid> 
+            <media:title>Cryin' Marshall - June Webisode</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/473/781/10187374:jpeg_preview_large.jpg?20080711162018" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x62cmm_cryin-marshall-june-webisode_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x62cmm"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x62cmm" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x62cmm_cryin-marshall-june-webisode_music">Cryin&#039; Marshall - June Webisode</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">See the latest featured music videos.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x62cmm" type="application/x-shockwave-flash" duration="548" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x62cmm.flv?auth=1265736100_58e90d7f664cf1717afe27e3fdf9a0db" type="video/x-flv" duration="548" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Cryin, Marshall, Crying, concert, rock, punk, pop, accoustic, show, webisode</itunes:keywords> 
+            <media:category label="Cryin">Cryin</media:category> 
+            <media:category label="Marshall">Marshall</media:category> 
+            <media:category label="Crying">Crying</media:category> 
+            <media:category label="concert">concert</media:category> 
+            <media:category label="rock">rock</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="pop">pop</media:category> 
+            <media:category label="accoustic">accoustic</media:category> 
+            <media:category label="show">show</media:category> 
+            <media:category label="webisode">webisode</media:category> 
+        </item> 
+        <item> 
+            <title>Concert Cryin' Marshall 17 Mai</title> 
+            <link>http://www.dailymotion.com/video/x5apcj_concert-cryin-marshall-17-mai_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x5apcj_concert-cryin-marshall-17-mai_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/194/798/8897491:jpeg_preview_medium.jpg?20080503183441" style="border: 2px solid #B9D3FE;"></a><p></p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Concert">Concert</a> <a href="http://www.dailymotion.com/tag/show">show</a> <a href="http://www.dailymotion.com/tag/buchelay">buchelay</a> <a href="http://www.dailymotion.com/tag/mantes">mantes</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/pop">pop</a> <a href="http://www.dailymotion.com/tag/cryin">cryin</a> <a href="http://www.dailymotion.com/tag/marshall">marshall</a> <a href="http://www.dailymotion.com/tag/blink">blink</a> <br />Posted: 03 May 2008<br />Rating: 5.0<br />Votes: 1<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary></itunes:summary> 
+            <itunes:subtitle></itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>1</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x5apcj_concert-cryin-marshall-17-mai_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>325</dm:views> 
+            <dm:comments>1</dm:comments> 
+            <dm:favorites>0</dm:favorites> 
+            <dm:id>x5apcj</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x5apcj?session_id=&amp;referer=&amp;country=US&amp;key=bs20r0ft0p0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=ec37ebae44eb8615f9f77dfd83ebf4fd</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 1 year ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Sat, 03 May 2008 18:23:49 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x5apcj_concert-cryin-marshall-17-mai_music</guid> 
+            <media:title>Concert Cryin' Marshall 17 Mai</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/194/798/8897491:jpeg_preview_large.jpg?20080503183441" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x5apcj_concert-cryin-marshall-17-mai_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x5apcj"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5apcj" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x5apcj_concert-cryin-marshall-17-mai_music">Concert Cryin&#039; Marshall 17 Mai</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Explore more music videos.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x5apcj" type="application/x-shockwave-flash" duration="290" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x5apcj.flv?auth=1265736100_661ea120d710a80421f98859391e938d" type="video/x-flv" duration="290" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Concert, show, buchelay, mantes, rock, punk, pop, cryin, marshall, blink</itunes:keywords> 
+            <media:category label="Concert">Concert</media:category> 
+            <media:category label="show">show</media:category> 
+            <media:category label="buchelay">buchelay</media:category> 
+            <media:category label="mantes">mantes</media:category> 
+            <media:category label="rock">rock</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="pop">pop</media:category> 
+            <media:category label="cryin">cryin</media:category> 
+            <media:category label="marshall">marshall</media:category> 
+            <media:category label="blink">blink</media:category> 
+        </item> 
+        <item> 
+            <title>Webisode C'M Drums</title> 
+            <link>http://www.dailymotion.com/video/x49j7f_webisode-cm-drums</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x49j7f_webisode-cm-drums"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/952/361/7163259:jpeg_preview_medium.jpg?20080206230608" style="border: 2px solid #B9D3FE;"></a><p>Webisode C'M First Part Drums</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/drums">drums</a> <a href="http://www.dailymotion.com/tag/batterie">batterie</a> <a href="http://www.dailymotion.com/tag/travis">travis</a> <a href="http://www.dailymotion.com/tag/barker">barker</a> <a href="http://www.dailymotion.com/tag/webisode">webisode</a> <a href="http://www.dailymotion.com/tag/solo">solo</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <a href="http://www.dailymotion.com/tag/Hey">Hey</a> <a href="http://www.dailymotion.com/tag/Gary">Gary</a> <a href="http://www.dailymotion.com/tag/cryin">cryin</a> <a href="http://www.dailymotion.com/tag/marshall">marshall</a> <a href="http://www.dailymotion.com/tag/blink">blink</a> <a href="http://www.dailymotion.com/tag/plus44">plus44</a> <a href="http://www.dailymotion.com/tag/drum">drum</a> <br />Posted: 03 February 2008<br />Rating: 5.0<br />Votes: 2<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Webisode C'M First Part Drums</itunes:summary> 
+            <itunes:subtitle>Webisode C'M First Part Drums</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>2</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x49j7f_webisode-cm-drums" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>227</dm:views> 
+            <dm:comments>1</dm:comments> 
+            <dm:favorites>0</dm:favorites> 
+            <dm:id>x49j7f</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x49j7f?session_id=&amp;referer=&amp;country=US&amp;key=9300aojg400ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=c97bce5e142d513eb3a2fb33cdd26f41</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 1 year ago</dm:relativeDate> 
+            <dm:channels></dm:channels> 
+            <pubDate>Sun, 03 Feb 2008 23:12:42 +0100</pubDate> 
+            <guid>http://www.dailymotion.com/video/x49j7f_webisode-cm-drums</guid> 
+            <media:title>Webisode C'M Drums</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/952/361/7163259:jpeg_preview_large.jpg?20080206230608" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x49j7f_webisode-cm-drums" height="293" width="480"><![CDATA[><object width="480" height="293"><param name="movie" value="http://www.dailymotion.com/swf/x49j7f"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x49j7f" width="480" height="293" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x49j7f_webisode-cm-drums">Webisode C&#039;M Drums</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>.</i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x49j7f" type="application/x-shockwave-flash" duration="25" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x49j7f.flv?auth=1265736100_21b77bd6511b15c5d8fe1d43fe53c9db" type="video/x-flv" duration="25" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>drums, batterie, travis, barker, webisode, solo, punk, rock, Hey, Gary, cryin, marshall, blink, plus44, drum</itunes:keywords> 
+            <media:category label="drums">drums</media:category> 
+            <media:category label="batterie">batterie</media:category> 
+            <media:category label="travis">travis</media:category> 
+            <media:category label="barker">barker</media:category> 
+            <media:category label="webisode">webisode</media:category> 
+            <media:category label="solo">solo</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="rock">rock</media:category> 
+            <media:category label="Hey">Hey</media:category> 
+            <media:category label="Gary">Gary</media:category> 
+            <media:category label="cryin">cryin</media:category> 
+            <media:category label="marshall">marshall</media:category> 
+            <media:category label="blink">blink</media:category> 
+            <media:category label="plus44">plus44</media:category> 
+            <media:category label="drum">drum</media:category> 
+        </item> 
+        <item> 
+            <title>Drums with Gary</title> 
+            <link>http://www.dailymotion.com/video/x44i0z_drums-with-gary_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x44i0z_drums-with-gary_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/154/829/6928451:jpeg_preview_medium.jpg?20080711162032" style="border: 2px solid #B9D3FE;"></a><p>Petit &quot;Montage&quot; de conner***, extraits de batterie et divers. www.myspace.com/cryinmarshall</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/drums">drums</a> <a href="http://www.dailymotion.com/tag/batterie">batterie</a> <a href="http://www.dailymotion.com/tag/travis">travis</a> <a href="http://www.dailymotion.com/tag/barker">barker</a> <a href="http://www.dailymotion.com/tag/solo">solo</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <a href="http://www.dailymotion.com/tag/Hey">Hey</a> <a href="http://www.dailymotion.com/tag/Gary">Gary</a> <a href="http://www.dailymotion.com/tag/cryin">cryin</a> <a href="http://www.dailymotion.com/tag/marshall">marshall</a> <a href="http://www.dailymotion.com/tag/blink">blink</a> <a href="http://www.dailymotion.com/tag/plus44">plus44</a> <a href="http://www.dailymotion.com/tag/drum">drum</a> <br />Posted: 21 January 2008<br />Rating: 5.0<br />Votes: 4<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Petit &quot;Montage&quot; de conner***, extraits de batterie et divers. www.myspace.com/cryinmarshall</itunes:summary> 
+            <itunes:subtitle>Petit &quot;Montage&quot; de conner***, extraits de batterie et divers. www.myspace.com/cryinmarshall</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>4</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x44i0z_drums-with-gary_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>467</dm:views> 
+            <dm:comments>3</dm:comments> 
+            <dm:favorites>1</dm:favorites> 
+            <dm:id>x44i0z</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x44i0z?session_id=&amp;referer=&amp;country=US&amp;key=dhsvxii0iv0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=bc12a722e1453fe1836008ea694263e1</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 2 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Mon, 21 Jan 2008 21:33:49 +0100</pubDate> 
+            <guid>http://www.dailymotion.com/video/x44i0z_drums-with-gary_music</guid> 
+            <media:title>Drums with Gary</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/154/829/6928451:jpeg_preview_large.jpg?20080711162032" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x44i0z_drums-with-gary_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x44i0z"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x44i0z" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x44i0z_drums-with-gary_music">Drums with Gary</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Music videos, artist interviews, concerts and more.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x44i0z" type="application/x-shockwave-flash" duration="410" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x44i0z.flv?auth=1265736100_bfaf91771dfa85eb032a2c14ef2cfad4" type="video/x-flv" duration="410" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>drums, batterie, travis, barker, solo, punk, rock, Hey, Gary, cryin, marshall, blink, plus44, drum</itunes:keywords> 
+            <media:category label="drums">drums</media:category> 
+            <media:category label="batterie">batterie</media:category> 
+            <media:category label="travis">travis</media:category> 
+            <media:category label="barker">barker</media:category> 
+            <media:category label="solo">solo</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="rock">rock</media:category> 
+            <media:category label="Hey">Hey</media:category> 
+            <media:category label="Gary">Gary</media:category> 
+            <media:category label="cryin">cryin</media:category> 
+            <media:category label="marshall">marshall</media:category> 
+            <media:category label="blink">blink</media:category> 
+            <media:category label="plus44">plus44</media:category> 
+            <media:category label="drum">drum</media:category> 
+        </item> 
+        <item> 
+            <title>Fanny ou &quot;The left hand&quot;</title> 
+            <link>http://www.dailymotion.com/video/x2mdom_fanny-ou-the-left-hand_fun</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x2mdom_fanny-ou-the-left-hand_fun"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/893/304/4403398:jpeg_preview_medium.jpg?20080403192651" style="border: 2px solid #B9D3FE;"></a><p>Holidays Hossegor</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Funny">Funny</a> <a href="http://www.dailymotion.com/tag/Fanny">Fanny</a> <a href="http://www.dailymotion.com/tag/Fest">Fest</a> <a href="http://www.dailymotion.com/tag/girlfriend">girlfriend</a> <a href="http://www.dailymotion.com/tag/hossegor">hossegor</a> <a href="http://www.dailymotion.com/tag/porte">porte</a> <a href="http://www.dailymotion.com/tag/coup">coup</a> <a href="http://www.dailymotion.com/tag/travis">travis</a> <a href="http://www.dailymotion.com/tag/barker">barker</a> <a href="http://www.dailymotion.com/tag/blink">blink</a> <br />Posted: 25 July 2007<br />Rating: 5.0<br />Votes: 3<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Holidays Hossegor</itunes:summary> 
+            <itunes:subtitle>Holidays Hossegor</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>3</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x2mdom_fanny-ou-the-left-hand_fun" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>322</dm:views> 
+            <dm:comments>3</dm:comments> 
+            <dm:favorites>0</dm:favorites> 
+            <dm:id>x2mdom</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x2mdom?session_id=&amp;referer=&amp;country=US&amp;key=ey72hctj4i0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=4e8e28879902d837b15512d97b100bb8</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 2 years ago</dm:relativeDate> 
+            <dm:channels>fun</dm:channels> 
+            <pubDate>Wed, 25 Jul 2007 22:51:49 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x2mdom_fanny-ou-the-left-hand_fun</guid> 
+            <media:title>Fanny ou &quot;The left hand&quot;</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/893/304/4403398:jpeg_preview_large.jpg?20080403192651" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x2mdom_fanny-ou-the-left-hand_fun" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x2mdom"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x2mdom" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x2mdom_fanny-ou-the-left-hand_fun">Fanny ou &quot;The left hand&quot;</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/fun">Click for more funny videos.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x2mdom" type="application/x-shockwave-flash" duration="12" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x2mdom.flv?auth=1265736100_98c8f549a0512a7ef9d31ba80c64df29" type="video/x-flv" duration="12" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Funny, Fanny, Fest, girlfriend, hossegor, porte, coup, travis, barker, blink</itunes:keywords> 
+            <media:category label="Funny">Funny</media:category> 
+            <media:category label="Fanny">Fanny</media:category> 
+            <media:category label="Fest">Fest</media:category> 
+            <media:category label="girlfriend">girlfriend</media:category> 
+            <media:category label="hossegor">hossegor</media:category> 
+            <media:category label="porte">porte</media:category> 
+            <media:category label="coup">coup</media:category> 
+            <media:category label="travis">travis</media:category> 
+            <media:category label="barker">barker</media:category> 
+            <media:category label="blink">blink</media:category> 
+        </item> 
+        <item> 
+            <title>Cryin' Marshall, The way will be so far</title> 
+            <link>http://www.dailymotion.com/video/x23w8i_cryin-marshall-the-way-will-be-so-f_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x23w8i_cryin-marshall-the-way-will-be-so-f_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/879/045/3540978:jpeg_preview_medium.jpg?20080930120614" style="border: 2px solid #B9D3FE;"></a><p>Cryin' Marshall, The way will be so far live @ salle CAC Georges Brassens </p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Cryin">Cryin</a> <a href="http://www.dailymotion.com/tag/Marshall">Marshall</a> <a href="http://www.dailymotion.com/tag/The">The</a> <a href="http://www.dailymotion.com/tag/way">way</a> <a href="http://www.dailymotion.com/tag/will">will</a> <a href="http://www.dailymotion.com/tag/far">far</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/rok">rok</a> <a href="http://www.dailymotion.com/tag/live">live</a> <a href="http://www.dailymotion.com/tag/concer">concer</a> <br />Posted: 28 May 2007<br />Rating: 5.0<br />Votes: 2<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Cryin' Marshall, The way will be so far live @ salle CAC Georges Brassens </itunes:summary> 
+            <itunes:subtitle>Cryin' Marshall, The way will be so far live @ salle CAC Georges Brassens </itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>2</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x23w8i_cryin-marshall-the-way-will-be-so-f_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>219</dm:views> 
+            <dm:comments>2</dm:comments> 
+            <dm:favorites>1</dm:favorites> 
+            <dm:id>x23w8i</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x23w8i?session_id=&amp;referer=&amp;country=US&amp;key=d6pgy6vfym0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=cdfb1dccb6f016e7cb2d49d75a1ffc9d</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 2 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Mon, 28 May 2007 23:16:23 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x23w8i_cryin-marshall-the-way-will-be-so-f_music</guid> 
+            <media:title>Cryin' Marshall, The way will be so far</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/879/045/3540978:jpeg_preview_large.jpg?20080930120614" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x23w8i_cryin-marshall-the-way-will-be-so-f_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x23w8i"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x23w8i" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x23w8i_cryin-marshall-the-way-will-be-so-f_music">Cryin&#039; Marshall, The way will be so far</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Watch more music videos, in HD!</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x23w8i" type="application/x-shockwave-flash" duration="35" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x23w8i.flv?auth=1265736100_1d34283ea5546554899794d4a9965f8f" type="video/x-flv" duration="35" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Cryin, Marshall, The, way, will, far, punk, rok, live, concer</itunes:keywords> 
+            <media:category label="Cryin">Cryin</media:category> 
+            <media:category label="Marshall">Marshall</media:category> 
+            <media:category label="The">The</media:category> 
+            <media:category label="way">way</media:category> 
+            <media:category label="will">will</media:category> 
+            <media:category label="far">far</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="rok">rok</media:category> 
+            <media:category label="live">live</media:category> 
+            <media:category label="concer">concer</media:category> 
+        </item> 
+        <item> 
+            <title>Cryin' Marshall, Feeling down</title> 
+            <link>http://www.dailymotion.com/video/x23vlx_cryin-marshall-feeling-down_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x23vlx_cryin-marshall-feeling-down_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/561/045/3540165:jpeg_preview_medium.jpg?20080930120459" style="border: 2px solid #B9D3FE;"></a><p>Cryin' Marshall, début Feeling down (apparement je suis heureux de te voir &amp;lt;3)live @ salle Jacques Brel</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Cryin">Cryin</a> <a href="http://www.dailymotion.com/tag/Marshall">Marshall</a> <a href="http://www.dailymotion.com/tag/Feeling">Feeling</a> <a href="http://www.dailymotion.com/tag/down">down</a> <a href="http://www.dailymotion.com/tag/concert">concert</a> <a href="http://www.dailymotion.com/tag/live">live</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <br />Posted: 28 May 2007<br />Rating: 5.0<br />Votes: 1<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Cryin' Marshall, début Feeling down (apparement je suis heureux de te voir &amp;lt;3)live @ salle Jacques Brel</itunes:summary> 
+            <itunes:subtitle>Cryin' Marshall, début Feeling down (apparement je suis heureux de te voir &amp;lt;3)live @ salle Jacques Brel</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>1</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x23vlx_cryin-marshall-feeling-down_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>178</dm:views> 
+            <dm:comments>0</dm:comments> 
+            <dm:favorites>0</dm:favorites> 
+            <dm:id>x23vlx</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x23vlx?session_id=&amp;referer=&amp;country=US&amp;key=akmpu7oqii0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=e95702a3dc3baa101d353b4895940e49</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 2 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Mon, 28 May 2007 22:23:27 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x23vlx_cryin-marshall-feeling-down_music</guid> 
+            <media:title>Cryin' Marshall, Feeling down</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/561/045/3540165:jpeg_preview_large.jpg?20080930120459" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x23vlx_cryin-marshall-feeling-down_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x23vlx"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x23vlx" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x23vlx_cryin-marshall-feeling-down_music">Cryin&#039; Marshall, Feeling down</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Explore more music videos.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x23vlx" type="application/x-shockwave-flash" duration="21" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x23vlx.flv?auth=1265736100_66c8d632266f33384c37911ae4bb5220" type="video/x-flv" duration="21" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Cryin, Marshall, Feeling, down, concert, live, punk, rock</itunes:keywords> 
+            <media:category label="Cryin">Cryin</media:category> 
+            <media:category label="Marshall">Marshall</media:category> 
+            <media:category label="Feeling">Feeling</media:category> 
+            <media:category label="down">down</media:category> 
+            <media:category label="concert">concert</media:category> 
+            <media:category label="live">live</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="rock">rock</media:category> 
+        </item> 
+        <item> 
+            <title>Cryin' Marshall, Feeling down</title> 
+            <link>http://www.dailymotion.com/video/x23udx_cryin-marshall-feeling-down_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x23udx_cryin-marshall-feeling-down_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/185/835/3538581:jpeg_preview_medium.jpg?20080930120255" style="border: 2px solid #B9D3FE;"></a><p>Cryin' Marshall, Feeling down</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Cryin">Cryin</a> <a href="http://www.dailymotion.com/tag/Marshall">Marshall</a> <a href="http://www.dailymotion.com/tag/Feeling">Feeling</a> <a href="http://www.dailymotion.com/tag/down">down</a> <br />Posted: 28 May 2007<br />Rating: 5.0<br />Votes: 1<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Cryin' Marshall, Feeling down</itunes:summary> 
+            <itunes:subtitle>Cryin' Marshall, Feeling down</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>1</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x23udx_cryin-marshall-feeling-down_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>90</dm:views> 
+            <dm:comments>0</dm:comments> 
+            <dm:favorites>0</dm:favorites> 
+            <dm:id>x23udx</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x23udx?session_id=&amp;referer=&amp;country=US&amp;key=8z5tjfi8tj0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=28968a646306cc9df2179849e0f3ca4e</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 2 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Mon, 28 May 2007 20:45:11 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x23udx_cryin-marshall-feeling-down_music</guid> 
+            <media:title>Cryin' Marshall, Feeling down</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/185/835/3538581:jpeg_preview_large.jpg?20080930120255" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x23udx_cryin-marshall-feeling-down_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x23udx"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x23udx" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x23udx_cryin-marshall-feeling-down_music">Cryin&#039; Marshall, Feeling down</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Explore more music videos.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x23udx" type="application/x-shockwave-flash" duration="35" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x23udx.flv?auth=1265736100_97d0e3abdc435f351951d054d4d0618c" type="video/x-flv" duration="35" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Cryin, Marshall, Feeling, down</itunes:keywords> 
+            <media:category label="Cryin">Cryin</media:category> 
+            <media:category label="Marshall">Marshall</media:category> 
+            <media:category label="Feeling">Feeling</media:category> 
+            <media:category label="down">down</media:category> 
+        </item> 
+        <item> 
+            <title>Cryin' Marshall, One night over the sky</title> 
+            <link>http://www.dailymotion.com/video/x23kyf_cryin-marshall-one-night-over-the-s_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x23kyf_cryin-marshall-one-night-over-the-s_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/953/625/3526359:jpeg_preview_medium.jpg?20080930114537" style="border: 2px solid #B9D3FE;"></a><p>Cryin' Marshall, One night over the sky live @ Salle Jacques Brel</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/concert">concert</a> <a href="http://www.dailymotion.com/tag/live">live</a> <a href="http://www.dailymotion.com/tag/cryin">cryin</a> <a href="http://www.dailymotion.com/tag/marshall">marshall</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <br />Posted: 28 May 2007<br />Rating: 5.0<br />Votes: 2<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Cryin' Marshall, One night over the sky live @ Salle Jacques Brel</itunes:summary> 
+            <itunes:subtitle>Cryin' Marshall, One night over the sky live @ Salle Jacques Brel</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>2</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x23kyf_cryin-marshall-one-night-over-the-s_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>114</dm:views> 
+            <dm:comments>3</dm:comments> 
+            <dm:favorites>1</dm:favorites> 
+            <dm:id>x23kyf</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x23kyf?session_id=&amp;referer=&amp;country=US&amp;key=6va3dwwqzt0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=c0b3fdc1c8987ac847f5da735db8013c</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 2 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Mon, 28 May 2007 03:09:34 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x23kyf_cryin-marshall-one-night-over-the-s_music</guid> 
+            <media:title>Cryin' Marshall, One night over the sky</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/953/625/3526359:jpeg_preview_large.jpg?20080930114537" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x23kyf_cryin-marshall-one-night-over-the-s_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x23kyf"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x23kyf" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x23kyf_cryin-marshall-one-night-over-the-s_music">Cryin&#039; Marshall, One night over the sky</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">See the latest featured music videos.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x23kyf" type="application/x-shockwave-flash" duration="271" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x23kyf.flv?auth=1265736100_8224dd040ac49932a8ad1ebf13c432ea" type="video/x-flv" duration="271" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>concert, live, cryin, marshall, punk, rock</itunes:keywords> 
+            <media:category label="concert">concert</media:category> 
+            <media:category label="live">live</media:category> 
+            <media:category label="cryin">cryin</media:category> 
+            <media:category label="marshall">marshall</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="rock">rock</media:category> 
+        </item> 
+        <item> 
+            <title>Rosebud, Cryin Marshall</title> 
+            <link>http://www.dailymotion.com/video/x23kf8_rosebud-cryin-marshall_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x23kf8_rosebud-cryin-marshall_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/866/525/3525668:jpeg_preview_medium.jpg?20080930114442" style="border: 2px solid #B9D3FE;"></a><p>Cryin' Marshall, Rosebud live @ Salle Jacques Brel &quot;2&quot; w/ Guest : Spiderman from the United Stamste</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Concert">Concert</a> <a href="http://www.dailymotion.com/tag/Live">Live</a> <a href="http://www.dailymotion.com/tag/Cryin">Cryin</a> <a href="http://www.dailymotion.com/tag/Marshall">Marshall</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <a href="http://www.dailymotion.com/tag/spiderman">spiderman</a> <br />Posted: 28 May 2007<br />Rating: 5.0<br />Votes: 2<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Cryin' Marshall, Rosebud live @ Salle Jacques Brel &quot;2&quot; w/ Guest : Spiderman from the United Stamste</itunes:summary> 
+            <itunes:subtitle>Cryin' Marshall, Rosebud live @ Salle Jacques Brel &quot;2&quot; w/ Guest : Spiderman from the United Stamste</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>2</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x23kf8_rosebud-cryin-marshall_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>204</dm:views> 
+            <dm:comments>0</dm:comments> 
+            <dm:favorites>0</dm:favorites> 
+            <dm:id>x23kf8</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x23kf8?session_id=&amp;referer=&amp;country=US&amp;key=8xia8lrfo10ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=73e42d7b71e233257ff2c73dc5cb483c</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 2 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Mon, 28 May 2007 01:26:27 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x23kf8_rosebud-cryin-marshall_music</guid> 
+            <media:title>Rosebud, Cryin Marshall</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/866/525/3525668:jpeg_preview_large.jpg?20080930114442" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x23kf8_rosebud-cryin-marshall_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x23kf8"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x23kf8" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x23kf8_rosebud-cryin-marshall_music">Rosebud, Cryin Marshall</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Explore more music videos.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x23kf8" type="application/x-shockwave-flash" duration="234" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x23kf8.flv?auth=1265736100_2ef35f81a52980cec5d9299d190d80c3" type="video/x-flv" duration="234" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Concert, Live, Cryin, Marshall, punk, rock, spiderman</itunes:keywords> 
+            <media:category label="Concert">Concert</media:category> 
+            <media:category label="Live">Live</media:category> 
+            <media:category label="Cryin">Cryin</media:category> 
+            <media:category label="Marshall">Marshall</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="rock">rock</media:category> 
+            <media:category label="spiderman">spiderman</media:category> 
+        </item> 
+        <item> 
+            <title>Cryin' Marshall, Rosebud</title> 
+            <link>http://www.dailymotion.com/video/x23bum_cryin-marshall-rosebud_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x23bum_cryin-marshall-rosebud_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/855/415/3514558:jpeg_preview_medium.jpg?20080930112427" style="border: 2px solid #B9D3FE;"></a><p>Cryin' Marshall, Rosebud live @ Salle Jacques Brel w/ Guest : Spiderman from the United Stamste</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Concert">Concert</a> <a href="http://www.dailymotion.com/tag/Live">Live</a> <a href="http://www.dailymotion.com/tag/Cryin">Cryin</a> <a href="http://www.dailymotion.com/tag/Marshall">Marshall</a> <a href="http://www.dailymotion.com/tag/punk">punk</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <a href="http://www.dailymotion.com/tag/spiderman">spiderman</a> <br />Posted: 27 May 2007<br />Rating: 5.0<br />Votes: 1<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Cryin' Marshall, Rosebud live @ Salle Jacques Brel w/ Guest : Spiderman from the United Stamste</itunes:summary> 
+            <itunes:subtitle>Cryin' Marshall, Rosebud live @ Salle Jacques Brel w/ Guest : Spiderman from the United Stamste</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>1</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x23bum_cryin-marshall-rosebud_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>319</dm:views> 
+            <dm:comments>1</dm:comments> 
+            <dm:favorites>0</dm:favorites> 
+            <dm:id>x23bum</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x23bum?session_id=&amp;referer=&amp;country=US&amp;key=59hbwb6prf0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=d89e61ad1fea484f7ba30bb73a79f906</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 2 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Sun, 27 May 2007 13:49:09 +0200</pubDate> 
+            <guid>http://www.dailymotion.com/video/x23bum_cryin-marshall-rosebud_music</guid> 
+            <media:title>Cryin' Marshall, Rosebud</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/855/415/3514558:jpeg_preview_large.jpg?20080930112427" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x23bum_cryin-marshall-rosebud_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x23bum"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x23bum" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x23bum_cryin-marshall-rosebud_music">Cryin&#039; Marshall, Rosebud</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">See the latest featured music videos.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x23bum" type="application/x-shockwave-flash" duration="200" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x23bum.flv?auth=1265736100_b9da63bb4005cb5537dec6460be2e96a" type="video/x-flv" duration="200" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Concert, Live, Cryin, Marshall, punk, rock, spiderman</itunes:keywords> 
+            <media:category label="Concert">Concert</media:category> 
+            <media:category label="Live">Live</media:category> 
+            <media:category label="Cryin">Cryin</media:category> 
+            <media:category label="Marshall">Marshall</media:category> 
+            <media:category label="punk">punk</media:category> 
+            <media:category label="rock">rock</media:category> 
+            <media:category label="spiderman">spiderman</media:category> 
+        </item> 
+        <item> 
+            <title>Until The Day I Die</title> 
+            <link>http://www.dailymotion.com/video/x1305c_until-the-day-i-die_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/x1305c_until-the-day-i-die_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/677/918/1819776:jpeg_preview_medium.jpg?20080912041444" style="border: 2px solid #B9D3FE;"></a><p>Story of the year  - Until the day I die[Live @ 7th Avenue Drop]</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Live">Live</a> <a href="http://www.dailymotion.com/tag/7th">7th</a> <a href="http://www.dailymotion.com/tag/Avenue">Avenue</a> <a href="http://www.dailymotion.com/tag/Drop">Drop</a> <a href="http://www.dailymotion.com/tag/soty">soty</a> <a href="http://www.dailymotion.com/tag/story">story</a> <a href="http://www.dailymotion.com/tag/the">the</a> <a href="http://www.dailymotion.com/tag/year">year</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <a href="http://www.dailymotion.com/tag/concert">concert</a> <a href="http://www.dailymotion.com/tag/Until">Until</a> <a href="http://www.dailymotion.com/tag/The">The</a> <a href="http://www.dailymotion.com/tag/Day">Day</a> <a href="http://www.dailymotion.com/tag/Die">Die</a> <br />Posted: 28 January 2007<br />Rating: 5.0<br />Votes: 6<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Story of the year  - Until the day I die[Live @ 7th Avenue Drop]</itunes:summary> 
+            <itunes:subtitle>Story of the year  - Until the day I die[Live @ 7th Avenue Drop]</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>6</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/x1305c_until-the-day-i-die_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>1627</dm:views> 
+            <dm:comments>1</dm:comments> 
+            <dm:favorites>5</dm:favorites> 
+            <dm:id>x1305c</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/x1305c?session_id=&amp;referer=&amp;country=US&amp;key=u6mkdu9qed0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=d510eb4d60e6026b0f7825d635341d6a</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 3 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Sun, 28 Jan 2007 21:18:03 +0100</pubDate> 
+            <guid>http://www.dailymotion.com/video/x1305c_until-the-day-i-die_music</guid> 
+            <media:title>Until The Day I Die</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/677/918/1819776:jpeg_preview_large.jpg?20080912041444" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/x1305c_until-the-day-i-die_music" height="348" width="480"><![CDATA[><object width="480" height="348"><param name="movie" value="http://www.dailymotion.com/swf/x1305c"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x1305c" width="480" height="348" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x1305c_until-the-day-i-die_music">Until The Day I Die</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Explore more music videos.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/x1305c" type="application/x-shockwave-flash" duration="231" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/x1305c.flv?auth=1265736100_33abb4f70dd2d7d5285ba5d39b854272" type="video/x-flv" duration="231" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Live, 7th, Avenue, Drop, soty, story, the, year, rock, concert, Until, The, Day, Die</itunes:keywords> 
+            <media:category label="Live">Live</media:category> 
+            <media:category label="7th">7th</media:category> 
+            <media:category label="Avenue">Avenue</media:category> 
+            <media:category label="Drop">Drop</media:category> 
+            <media:category label="soty">soty</media:category> 
+            <media:category label="story">story</media:category> 
+            <media:category label="the">the</media:category> 
+            <media:category label="year">year</media:category> 
+            <media:category label="rock">rock</media:category> 
+            <media:category label="concert">concert</media:category> 
+            <media:category label="Until">Until</media:category> 
+            <media:category label="The">The</media:category> 
+            <media:category label="Day">Day</media:category> 
+            <media:category label="Die">Die</media:category> 
+        </item> 
+        <item> 
+            <title>Reportage</title> 
+            <link>http://www.dailymotion.com/video/xwqej_reportage_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/xwqej_reportage_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/112/725/1527211:jpeg_preview_medium.jpg?20080911184505" style="border: 2px solid #B9D3FE;"></a><p>Passage furtif du myspace de mon groupe Cryin' Marshall au JT de France 2 à 20h, c'est pas super interressant mais ca fait toujours plaisir! Merci Florian!</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Reportage">Reportage</a> <a href="http://www.dailymotion.com/tag/Cryin">Cryin</a> <a href="http://www.dailymotion.com/tag/Marshall">Marshall</a> <a href="http://www.dailymotion.com/tag/Myspace">Myspace</a> <a href="http://www.dailymotion.com/tag/Punk">Punk</a> <a href="http://www.dailymotion.com/tag/Rock">Rock</a> <a href="http://www.dailymotion.com/tag/France">France</a> <a href="http://www.dailymotion.com/tag/Pujadas">Pujadas</a> <br />Posted: 03 January 2007<br />Rating: 5.0<br />Votes: 1<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Passage furtif du myspace de mon groupe Cryin' Marshall au JT de France 2 à 20h, c'est pas super interressant mais ca fait toujours plaisir! Merci Florian!</itunes:summary> 
+            <itunes:subtitle>Passage furtif du myspace de mon groupe Cryin' Marshall au JT de France 2 à 20h, c'est pas super interressant mais ca fait toujours plaisir! Merci Florian!</itunes:subtitle> 
+            <dm:videorating>5.0</dm:videorating> 
+            <dm:videovotes>1</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/xwqej_reportage_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>448</dm:views> 
+            <dm:comments>2</dm:comments> 
+            <dm:favorites>0</dm:favorites> 
+            <dm:id>xwqej</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/xwqej?session_id=&amp;referer=&amp;country=US&amp;key=4cr1k4hhe30ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=92eda0320c5e22264b0ac8c9f87e86db</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 3 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Wed, 03 Jan 2007 01:02:24 +0100</pubDate> 
+            <guid>http://www.dailymotion.com/video/xwqej_reportage_music</guid> 
+            <media:title>Reportage</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/112/725/1527211:jpeg_preview_large.jpg?20080911184505" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/xwqej_reportage_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/xwqej"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/xwqej" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/xwqej_reportage_music">Reportage</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Music videos, artist interviews, concerts and more.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/xwqej" type="application/x-shockwave-flash" duration="209" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/xwqej.flv?auth=1265736100_c20c1ef6abf5e7d7af94030a19a78044" type="video/x-flv" duration="209" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Reportage, Cryin, Marshall, Myspace, Punk, Rock, France, Pujadas</itunes:keywords> 
+            <media:category label="Reportage">Reportage</media:category> 
+            <media:category label="Cryin">Cryin</media:category> 
+            <media:category label="Marshall">Marshall</media:category> 
+            <media:category label="Myspace">Myspace</media:category> 
+            <media:category label="Punk">Punk</media:category> 
+            <media:category label="Rock">Rock</media:category> 
+            <media:category label="France">France</media:category> 
+            <media:category label="Pujadas">Pujadas</media:category> 
+        </item> 
+        <item> 
+            <title>Plus 44 - Lycanthrope Aol Session</title> 
+            <link>http://www.dailymotion.com/video/xtgnr_plus-44-lycanthrope-aol-session_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/xtgnr_plus-44-lycanthrope-aol-session_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/516/473/1374615:jpeg_preview_medium.jpg?20081111082051" style="border: 2px solid #B9D3FE;"></a><p>Plus 44 - Lycanthrope Aol Session, avec toujours un Travis impressionant!</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Plus">Plus</a> <a href="http://www.dailymotion.com/tag/Lycanthrope">Lycanthrope</a> <a href="http://www.dailymotion.com/tag/Aol">Aol</a> <a href="http://www.dailymotion.com/tag/Session">Session</a> <a href="http://www.dailymotion.com/tag/concert">concert</a> <a href="http://www.dailymotion.com/tag/live">live</a> <a href="http://www.dailymotion.com/tag/Craig">Craig</a> <a href="http://www.dailymotion.com/tag/Shane">Shane</a> <a href="http://www.dailymotion.com/tag/Travis">Travis</a> <a href="http://www.dailymotion.com/tag/Barker">Barker</a> <a href="http://www.dailymotion.com/tag/Mark">Mark</a> <a href="http://www.dailymotion.com/tag/Hoppus">Hoppus</a> <br />Posted: 17 December 2006<br />Rating: 4.9<br />Votes: 41<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Plus 44 - Lycanthrope Aol Session, avec toujours un Travis impressionant!</itunes:summary> 
+            <itunes:subtitle>Plus 44 - Lycanthrope Aol Session, avec toujours un Travis impressionant!</itunes:subtitle> 
+            <dm:videorating>4.9</dm:videorating> 
+            <dm:videovotes>41</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/xtgnr_plus-44-lycanthrope-aol-session_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>13266</dm:views> 
+            <dm:comments>40</dm:comments> 
+            <dm:favorites>54</dm:favorites> 
+            <dm:id>xtgnr</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/xtgnr?session_id=&amp;referer=&amp;country=US&amp;key=42gj2udhry0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=e0d130920cde307cd3de2d3599d90712</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 3 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Sun, 17 Dec 2006 19:11:42 +0100</pubDate> 
+            <guid>http://www.dailymotion.com/video/xtgnr_plus-44-lycanthrope-aol-session_music</guid> 
+            <media:title>Plus 44 - Lycanthrope Aol Session</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/516/473/1374615:jpeg_preview_large.jpg?20081111082051" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/xtgnr_plus-44-lycanthrope-aol-session_music" height="381" width="480"><![CDATA[><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/xtgnr"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/xtgnr" width="480" height="381" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/xtgnr_plus-44-lycanthrope-aol-session_music">Plus 44 - Lycanthrope Aol Session</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Music videos, artist interviews, concerts and more.</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/xtgnr" type="application/x-shockwave-flash" duration="242" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/xtgnr.flv?auth=1265736100_01b0a52d3aba4a1a5e70bb746da0dd1e" type="video/x-flv" duration="242" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Plus, Lycanthrope, Aol, Session, concert, live, Craig, Shane, Travis, Barker, Mark, Hoppus</itunes:keywords> 
+            <media:category label="Plus">Plus</media:category> 
+            <media:category label="Lycanthrope">Lycanthrope</media:category> 
+            <media:category label="Aol">Aol</media:category> 
+            <media:category label="Session">Session</media:category> 
+            <media:category label="concert">concert</media:category> 
+            <media:category label="live">live</media:category> 
+            <media:category label="Craig">Craig</media:category> 
+            <media:category label="Shane">Shane</media:category> 
+            <media:category label="Travis">Travis</media:category> 
+            <media:category label="Barker">Barker</media:category> 
+            <media:category label="Mark">Mark</media:category> 
+            <media:category label="Hoppus">Hoppus</media:category> 
+        </item> 
+        <item> 
+            <title>Crosby, Stills, Nash and Young</title> 
+            <link>http://www.dailymotion.com/video/xshg7_crosby-stills-nash-and-young_music</link> 
+            <description><![CDATA[><a href="http://www.dailymotion.com/video/xshg7_crosby-stills-nash-and-young_music"><img align="right" width="120" height="90" src="http://ak2.static.dailymotion.com/static/video/389/823/1328983:jpeg_preview_medium.jpg?20080911004009" style="border: 2px solid #B9D3FE;"></a><p>Neil Young &amp; Crosby, Stills, Nash - Down By The River</p><p>Author: <a href="http://www.dailymotion.com/Heygary"><img src="http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444" width="80" height="80" alt="avatar"/>Heygary</a><br />Tags: <a href="http://www.dailymotion.com/tag/Neil">Neil</a> <a href="http://www.dailymotion.com/tag/Young">Young</a> <a href="http://www.dailymotion.com/tag/Crosby">Crosby</a> <a href="http://www.dailymotion.com/tag/Stills">Stills</a> <a href="http://www.dailymotion.com/tag/Nash">Nash</a> <a href="http://www.dailymotion.com/tag/Down">Down</a> <a href="http://www.dailymotion.com/tag/The">The</a> <a href="http://www.dailymotion.com/tag/River">River</a> <a href="http://www.dailymotion.com/tag/rock">rock</a> <a href="http://www.dailymotion.com/tag/concert">concert</a> <a href="http://www.dailymotion.com/tag/live">live</a> <br />Posted: 12 December 2006<br />Rating: 4.6<br />Votes: 7<br /></p>]]></description> 
+            <author>rss@dailymotion.com (Heygary)</author> 
+            <itunes:author>Heygary</itunes:author> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:summary>Neil Young &amp; Crosby, Stills, Nash - Down By The River</itunes:summary> 
+            <itunes:subtitle>Neil Young &amp; Crosby, Stills, Nash - Down By The River</itunes:subtitle> 
+            <dm:videorating>4.6</dm:videorating> 
+            <dm:videovotes>7</dm:videovotes> 
+            <dm:link rel="uql" href="http://www.dailymotion.com/rss/video/xshg7_crosby-stills-nash-and-young_music" type="application/rss+xml"/> 
+            <dm:link rel="userProfile" href="http://www.dailymotion.com/rss/Heygary" type="application/rss+xml"/> 
+            <dm:views>5416</dm:views> 
+            <dm:comments>3</dm:comments> 
+            <dm:favorites>31</dm:favorites> 
+            <dm:id>xshg7</dm:id> 
+            <dm:author>Heygary</dm:author> 
+            <dm:loggerURL>http://logger.dailymotion.com/video/access/xshg7?session_id=&amp;referer=&amp;country=US&amp;key=bquz89o3ln0ix7lackx8dtc&amp;v=4b6888f0&amp;i=4432b084&amp;h=94a5af65cfaf36e347b1888f9fba3b31</dm:loggerURL> 
+            <dm:authorAvatar>http://ak2.static.dailymotion.com/static/user/107/250/1052701:avatar_medium.jpg?20080912041444</dm:authorAvatar> 
+            <dm:relativeDate>posted 3 years ago</dm:relativeDate> 
+            <dm:channels>music</dm:channels> 
+            <pubDate>Tue, 12 Dec 2006 19:52:37 +0100</pubDate> 
+            <guid>http://www.dailymotion.com/video/xshg7_crosby-stills-nash-and-young_music</guid> 
+            <media:title>Crosby, Stills, Nash and Young</media:title> 
+            <media:credit>Heygary</media:credit> 
+            <media:thumbnail url="http://ak2.static.dailymotion.com/static/video/389/823/1328983:jpeg_preview_large.jpg?20080911004009" height="240" width="320" /> 
+            <media:player url="http://www.dailymotion.com/video/xshg7_crosby-stills-nash-and-young_music" height="348" width="480"><![CDATA[><object width="480" height="348"><param name="movie" value="http://www.dailymotion.com/swf/xshg7"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/xshg7" width="480" height="348" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/xshg7_crosby-stills-nash-and-young_music">Crosby, Stills, Nash and Young</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/Heygary">Heygary</a>. - <a href="http://www.dailymotion.com/us/channel/music">Watch more music videos, in HD!</a></i>]]></media:player> 
+            <media:group> 
+                <media:content url="http://www.dailymotion.com/swf/xshg7" type="application/x-shockwave-flash" duration="298" width="320" height="240"/> 
+                <media:content url="http://www.dailymotion.com/cdn/FLV-80x60/video/xshg7.flv?auth=1265736100_2cd67da92042581c7ad0b694d02a6433" type="video/x-flv" duration="298" width="80" height="60"/> 
+            </media:group> 
+            <itunes:keywords>Neil, Young, Crosby, Stills, Nash, Down, The, River, rock, concert, live</itunes:keywords> 
+            <media:category label="Neil">Neil</media:category> 
+            <media:category label="Young">Young</media:category> 
+            <media:category label="Crosby">Crosby</media:category> 
+            <media:category label="Stills">Stills</media:category> 
+            <media:category label="Nash">Nash</media:category> 
+            <media:category label="Down">Down</media:category> 
+            <media:category label="The">The</media:category> 
+            <media:category label="River">River</media:category> 
+            <media:category label="rock">rock</media:category> 
+            <media:category label="concert">concert</media:category> 
+            <media:category label="live">live</media:category> 
+        </item> 
+    </channel> 
+</rss>

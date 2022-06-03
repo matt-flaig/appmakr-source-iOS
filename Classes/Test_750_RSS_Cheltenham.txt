@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+
+<channel rdf:about="http://www.cheltenham.gov.uk/site/scripts/rss.php">
+<title>www.cheltenham.gov.uk::Latest News</title>
+<link>http://www.cheltenham.gov.uk</link>
+<description>www.cheltenham.gov.uk</description>
+<dc:language>en</dc:language>
+<items>
+	<rdf:Seq>
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=718" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=186" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=715" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=714" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=713" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=712" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=711" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=710" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=709" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=708" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=707" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=706" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=705" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=704" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=703" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=702" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=701" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=700" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=699" />
+		<rdf:li rdf:resource="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=698" />
+	</rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=718">
+	<title>Making the right choice for Cheltenham</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=718</link>
+	<description>Scoring system agreed for North Place and Portland Street proposals</description>
+	<dc:date>2011-02-09 14:06</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=186">
+	<title>They deserve a medal!</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=186</link>
+	<description>Do you know anyone who you think deserves a medal? If so, nominate them for the Cheltenham Medal of Honour. </description>
+	<dc:date>2011-01-28 10:02</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=715">
+	<title>Sites out to market </title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=715</link>
+	<description>Development proposals invited for North Place and Portland Street</description>
+	<dc:date>2011-01-27 10:40</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=714">
+	<title>Senior officer positions are announced </title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=714</link>
+	<description>Two newly filled senior management posts have today been announced by Cheltenham Borough Council.   </description>
+	<dc:date>2011-01-27 10:02</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=713">
+	<title>Cheltenham Borough Homes goes extra mile for tenants this winter </title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=713</link>
+	<description>A phone call to the local supermarket turned out to be a real lifeline for some of Cheltenham Borough Homes' (CBH) sheltered housing tenants during the recent extreme winter weather.</description>
+	<dc:date>2011-01-24 14:15</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=712">
+	<title>Businesses invited to meet the council</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=712</link>
+	<description>10 February 2011, 6.30pm</description>
+	<dc:date>2011-01-24 11:39</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=711">
+	<title>Last chance to have your say on council's draft budget 2011/12</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=711</link>
+	<description>Public consultation on the draft budget ends on 22 January. The document will then be discussed by the council's Cabinet on 8 February, and then by full council on 11 February.</description>
+	<dc:date>2011-01-21 12:04</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=710">
+	<title>Changes to recycling and refuse collections in Cheltenham</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=710</link>
+	<description>Information leaflets will be delivered throughout February, and food waste collections start in April.&lt;br /&gt;
+</description>
+	<dc:date>2011-01-21 10:29</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=709">
+	<title>New swimming lessons for babies from four months</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=709</link>
+	<description>Young children aged from four months to 36 months can now learn to swim in a fun, innovative way with new lessons at leisure@cheltenham.</description>
+	<dc:date>2011-01-17 15:43</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=708">
+	<title>St Paul 's project cooks up (old) new friends! </title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=708</link>
+	<description>A walk in the country, a game of bowls, a go on the Wii and a healthy cooking demonstration were just some of the activities older tenants from St Paul's enjoyed as part of a community project run by by Cheltenham Borough Homes</description>
+	<dc:date>2011-01-17 14:09</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=707">
+	<title>Council receives petition</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=707</link>
+	<description>A petition was received by the council on 13 December 2010.</description>
+	<dc:date>2011-01-13 15:03</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=706">
+	<title>Empty Property rates to go up from 1 April</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=706</link>
+	<description>Ministers have announced that an exemption allowing the owners of some commercial properties to avoid paying business rates on vacant buildings is to be withdrawn.</description>
+	<dc:date>2011-01-11 15:54</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=705">
+	<title>The new VAT increase – A Cheltenham trader's view</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=705</link>
+	<description>Pam Thomas of Joyce Brooks, a specialist lingerie shop in Cheltenham, provides a personal insight as to how a local independent trader will cope with the new VAT increase.</description>
+	<dc:date>2011-01-11 15:40</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=704">
+	<title>Are you a retailer in Bath Road, the Suffolks, or Tivoli, with a story to tell?</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=704</link>
+	<description>For over 150 years, retailers in these three areas of Cheltenham's 'South Town' have developed particularly distinctive characters with a strong flavour of being small, independently owned businesses.</description>
+	<dc:date>2011-01-11 15:37</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=703">
+	<title>Next blames snow for &#163;22m in lost festive sales – as Cheltenham also counts the cost of a white Christmas</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=703</link>
+	<description>UK clothes retailer Next has said the December snow cost it &#163;22m in Christmas sales, although profits remain on target.</description>
+	<dc:date>2011-01-11 15:25</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=702">
+	<title>Cheltenham Town Centre – new roadworks planned for February and March</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=702</link>
+	<description>Three roads are due to be resurfaced by Gloucestershire Highways, starting Sunday evening 27 February 2011 and ending on Friday morning 11 March 2011.</description>
+	<dc:date>2011-01-11 15:22</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=701">
+	<title>leisure@cheltenham joins national scheme recognising club excellence </title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=701</link>
+	<description>leisure@cheltenham has joined the Health Club Awards which recognises the best value clubs based on research conducted through members around the country. </description>
+	<dc:date>2011-01-11 14:36</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=700">
+	<title>Make an active swap this New Year</title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=700</link>
+	<description>One month trial membership for just &#163;30 &lt;br /&gt;
+and half price adult swimming</description>
+	<dc:date>2011-01-11 11:46</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=699">
+	<title>Party the Parisienne way </title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=699</link>
+	<description>5 March, Cheltenham Town Hall</description>
+	<dc:date>2011-01-11 10:47</dc:date>
+</item>
+<item rdf:about="http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=698">
+	<title>Free fitness at leisure@cheltenham this weekend </title>
+	<link>http://www.cheltenham.gov.uk/site/scripts/news_article.php?newsID=698</link>
+	<description>Saturday 15 and Sunday 16 January 2011</description>
+	<dc:date>2011-01-10 12:13</dc:date>
+</item>
+
+</rdf:RDF>

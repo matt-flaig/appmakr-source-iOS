@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:activity="http://activitystrea.ms/spec/1.0">
+	<title>Robert Harm's Gowalla Checkins</title>
+	<id>tag:gowalla.com,2009:/users/5073/visits</id>
+	<link rel="self" href="http://gowalla.com/users/robertharm/visits.atom"/><!-- TODO: type attribute -->
+	<link rel="alternate" href="http://gowalla.com/users/robertharm/visits" type="text/html"/>
+	<link rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+	<!--
+	<link rel="next" href="http://example.org/index.atom?page=2"/>
+	-->
+	<updated>2010-02-02T16:42:59+00:00</updated>
+	<author>
+		<name>Robert Harm</name>
+	</author>
+
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908531</id>
+			<title>U1 Alte Donau</title>
+			<updated>2010-02-02T16:42:58+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908531"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+			<summary>Robert Harm checked in at U1 Alte Donau</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/47402&quot;&gt;U1 Alte Donau&lt;/a&gt;.</content>
+
+			<georss:point>48.2381871142 16.4247643948</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>U1 Alte Donau</georss:featurename>
+			<georss:radius>75</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/47402</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2381871142 16.4247643948</georss:point>
+		    	<title>U1 Alte Donau</title>
+		    	<published>2010-02-02T16:42:58+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/47402" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908519</id>
+			<title>Holmes Place Kaiserwasser</title>
+			<updated>2010-02-02T16:42:40+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908519"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/118-standard.png"/>
+			<summary>Robert Harm checked in at Holmes Place Kaiserwasser</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/155152&quot;&gt;Holmes Place Kaiserwasser&lt;/a&gt;.</content>
+
+			<georss:point>48.2350643107 16.421610117</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Holmes Place Kaiserwasser</georss:featurename>
+			<georss:radius>75</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/155152</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2350643107 16.421610117</georss:point>
+		    	<title>Holmes Place Kaiserwasser</title>
+		    	<published>2010-02-02T16:42:40+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/155152" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/118-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908482</id>
+			<title>Tabak Trafik</title>
+			<updated>2010-02-02T16:41:49+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908482"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/109-standard.png"/>
+			<summary>Robert Harm checked in at Tabak Trafik</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/60466&quot;&gt;Tabak Trafik&lt;/a&gt;.</content>
+
+			<georss:point>48.2328541667 16.4156412333</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Tabak Trafik</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/60466</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2328541667 16.4156412333</georss:point>
+		    	<title>Tabak Trafik</title>
+		    	<published>2010-02-02T16:41:49+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/60466" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/109-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908479</id>
+			<title>U1 KaisermÃ¼hlen- Vienna Int Center</title>
+			<updated>2010-02-02T16:41:43+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908479"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+			<summary>Robert Harm checked in at U1 KaisermÃ¼hlen- Vienna Int Center</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/60461&quot;&gt;U1 KaisermÃ¼hlen- Vienna Int Center&lt;/a&gt;.</content>
+
+			<georss:point>48.2328132014 16.4165246487</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>U1 KaisermÃ¼hlen- Vienna Int Center</georss:featurename>
+			<georss:radius>75</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/60461</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2328132014 16.4165246487</georss:point>
+		    	<title>U1 KaisermÃ¼hlen- Vienna Int Center</title>
+		    	<published>2010-02-02T16:41:43+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/60461" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908477</id>
+			<title>United Nations</title>
+			<updated>2010-02-02T16:41:36+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908477"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/23-standard.png"/>
+			<summary>Robert Harm checked in at United Nations</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/46129&quot;&gt;United Nations&lt;/a&gt;.</content>
+
+			<georss:point>48.2340209518 16.417028904</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>United Nations</georss:featurename>
+			<georss:radius>150</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/46129</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2340209518 16.417028904</georss:point>
+		    	<title>United Nations</title>
+		    	<published>2010-02-02T16:41:36+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/46129" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/23-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908472</id>
+			<title>92A SchÃ¼ttaustrasse</title>
+			<updated>2010-02-02T16:41:29+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908472"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/46-standard.png"/>
+			<summary>Robert Harm checked in at 92A SchÃ¼ttaustrasse</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/193548&quot;&gt;92A SchÃ¼ttaustrasse&lt;/a&gt;.</content>
+
+			<georss:point>48.2316268627 16.4163637161</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>92A SchÃ¼ttaustrasse</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/193548</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2316268627 16.4163637161</georss:point>
+		    	<title>92A SchÃ¼ttaustrasse</title>
+		    	<published>2010-02-02T16:41:29+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/193548" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/46-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908451</id>
+			<title>Tech Gate Vienna</title>
+			<updated>2010-02-02T16:41:02+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908451"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/23-standard.png"/>
+			<summary>Robert Harm checked in at Tech Gate Vienna</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/48461&quot;&gt;Tech Gate Vienna&lt;/a&gt;.</content>
+
+			<georss:point>48.2323343813 16.4144861698</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Tech Gate Vienna</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/48461</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2323343813 16.4144861698</georss:point>
+		    	<title>Tech Gate Vienna</title>
+		    	<published>2010-02-02T16:41:02+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/48461" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/23-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908374</id>
+			<title>Hotel Bristol</title>
+			<updated>2010-02-02T16:39:29+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908374"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/49-standard.png"/>
+			<summary>Robert Harm checked in at Hotel Bristol</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/91076&quot;&gt;Hotel Bristol&lt;/a&gt;.</content>
+
+			<georss:point>48.2023759 16.3691025</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Hotel Bristol</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/91076</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2023759 16.3691025</georss:point>
+		    	<title>Hotel Bristol</title>
+		    	<published>2010-02-02T16:39:29+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/91076" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/49-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908354</id>
+			<title>Wien Oper</title>
+			<updated>2010-02-02T16:39:08+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908354"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/57-standard.png"/>
+			<summary>Robert Harm checked in at Wien Oper</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/490258&quot;&gt;Wien Oper&lt;/a&gt;.</content>
+
+			<georss:point>48.2021960333 16.37035775</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Wien Oper</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/490258</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2021960333 16.37035775</georss:point>
+		    	<title>Wien Oper</title>
+		    	<published>2010-02-02T16:39:08+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/490258" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/57-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2908342</id>
+			<title>Drings</title>
+			<updated>2010-02-02T16:38:57+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2908342"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/28-standard.png"/>
+			<summary>Robert Harm checked in at Drings</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/165468&quot;&gt;Drings&lt;/a&gt;.</content>
+
+			<georss:point>48.2020819602 16.3707477357</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Drings</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/165468</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2020819602 16.3707477357</georss:point>
+		    	<title>Drings</title>
+		    	<published>2010-02-02T16:38:57+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/165468" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/28-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2895123</id>
+			<title>Bundesministerium fÃ¼r Finanzen</title>
+			<updated>2010-02-02T08:04:43+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2895123"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/60-standard.png"/>
+			<summary>Robert Harm checked in at Bundesministerium fÃ¼r Finanzen</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/419010&quot;&gt;Bundesministerium fÃ¼r Finanzen&lt;/a&gt;.</content>
+
+			<georss:point>48.209588838 16.3861942291</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Bundesministerium fÃ¼r Finanzen</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/419010</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.209588838 16.3861942291</georss:point>
+		    	<title>Bundesministerium fÃ¼r Finanzen</title>
+		    	<published>2010-02-02T08:04:43+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/419010" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/60-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2895071</id>
+			<title>Landstrasse Wien Mitte</title>
+			<updated>2010-02-02T08:02:40+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2895071"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+			<summary>Robert Harm checked in at Landstrasse Wien Mitte</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/48454&quot;&gt;Landstrasse Wien Mitte&lt;/a&gt;.</content>
+
+			<georss:point>48.2068003483 16.3851857185</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Landstrasse Wien Mitte</georss:featurename>
+			<georss:radius>150</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/48454</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2068003483 16.3851857185</georss:point>
+		    	<title>Landstrasse Wien Mitte</title>
+		    	<published>2010-02-02T08:02:40+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/48454" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2895036</id>
+			<title>U1/U4 Schwedenplatz</title>
+			<updated>2010-02-02T08:01:07+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2895036"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+			<summary>Robert Harm checked in at U1/U4 Schwedenplatz</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/47369&quot;&gt;U1/U4 Schwedenplatz&lt;/a&gt;.</content>
+
+			<georss:point>48.2117122783 16.377632618</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>U1/U4 Schwedenplatz</georss:featurename>
+			<georss:radius>75</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/47369</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2117122783 16.377632618</georss:point>
+		    	<title>U1/U4 Schwedenplatz</title>
+		    	<published>2010-02-02T08:01:07+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/47369" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2895018</id>
+			<title>Ristorante Rossini</title>
+			<updated>2010-02-02T08:00:41+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2895018"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/19-standard.png"/>
+			<summary>Robert Harm checked in at Ristorante Rossini</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/472405&quot;&gt;Ristorante Rossini&lt;/a&gt;.</content>
+
+			<georss:point>48.2094421375 16.378089973</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Ristorante Rossini</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/472405</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2094421375 16.378089973</georss:point>
+		    	<title>Ristorante Rossini</title>
+		    	<published>2010-02-02T08:00:41+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/472405" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/19-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2894906</id>
+			<title>U2/U4 Schottenring</title>
+			<updated>2010-02-02T07:55:10+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2894906"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+			<summary>Robert Harm checked in at U2/U4 Schottenring</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/62415&quot;&gt;U2/U4 Schottenring&lt;/a&gt;.</content>
+
+			<georss:point>48.2171527454 16.3715600967</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>U2/U4 Schottenring</georss:featurename>
+			<georss:radius>150</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/62415</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2171527454 16.3715600967</georss:point>
+		    	<title>U2/U4 Schottenring</title>
+		    	<published>2010-02-02T07:55:10+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/62415" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/164-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2894786</id>
+			<title>Bahnhof Wien Praterstern</title>
+			<updated>2010-02-02T07:50:38+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2894786"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/95-standard.png"/>
+			<summary>Robert Harm checked in at Bahnhof Wien Praterstern</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/289664&quot;&gt;Bahnhof Wien Praterstern&lt;/a&gt;.</content>
+
+			<georss:point>48.2185324304 16.3918590546</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Bahnhof Wien Praterstern</georss:featurename>
+			<georss:radius>100</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/289664</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2185324304 16.3918590546</georss:point>
+		    	<title>Bahnhof Wien Praterstern</title>
+		    	<published>2010-02-02T07:50:38+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/289664" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/95-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2894763</id>
+			<title>Telekom Austria</title>
+			<updated>2010-02-02T07:49:32+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2894763"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/165-standard.png"/>
+			<summary>Robert Harm checked in at Telekom Austria</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/29361&quot;&gt;Telekom Austria&lt;/a&gt;.</content>
+
+			<georss:point>48.2232613667 16.4002032167</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Telekom Austria</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/29361</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2232613667 16.4002032167</georss:point>
+		    	<title>Telekom Austria</title>
+		    	<published>2010-02-02T07:49:32+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/29361" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/165-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2894757</id>
+			<title>Prater</title>
+			<updated>2010-02-02T07:49:19+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2894757"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/55-standard.png"/>
+			<summary>Robert Harm checked in at Prater</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/358394&quot;&gt;Prater&lt;/a&gt;.</content>
+
+			<georss:point>48.20953625 16.40630435</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Prater</georss:featurename>
+			<georss:radius>150</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/358394</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.20953625 16.40630435</georss:point>
+		    	<title>Prater</title>
+		    	<published>2010-02-02T07:49:19+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/358394" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/55-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2894753</id>
+			<title>A1 cafe bistro</title>
+			<updated>2010-02-02T07:49:09+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2894753"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/64-standard.png"/>
+			<summary>Robert Harm checked in at A1 cafe bistro</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/29435&quot;&gt;A1 cafe bistro&lt;/a&gt;.</content>
+
+			<georss:point>48.2228158233 16.3996045957</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>A1 cafe bistro</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/29435</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2228158233 16.3996045957</georss:point>
+		    	<title>A1 cafe bistro</title>
+		    	<published>2010-02-02T07:49:09+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/29435" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/64-standard.png"/>
+		    </activity:object>
+
+		</entry>
+		<entry>
+			<id>tag:gowalla.com,2009:/visits/2894751</id>
+			<title>Friends4friends</title>
+			<updated>2010-02-02T07:49:02+00:00</updated>
+			<link rel="alternate" type="text/html" href="http://gowalla.com/visits/2894751"/>
+			<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/58-standard.png"/>
+			<summary>Robert Harm checked in at Friends4friends</summary>
+			<content type="html">&lt;a href=&quot;http://gowalla.com/users/robertharm&quot;&gt;Robert Harm&lt;/a&gt; checked in at &lt;a href=&quot;http://gowalla.com/spots/237393&quot;&gt;Friends4friends&lt;/a&gt;.</content>
+
+			<georss:point>48.2178706333 16.3971415833</georss:point>
+			<!--
+			<georss:featuretypetag>location</georss:featuretypetag>
+			<georss:relationshiptag>is-located-at</georss:relationshiptag>
+			<georss:featurename>Friends4friends</georss:featurename>
+			<georss:radius>50</georss:radius>
+			-->
+
+			<activity:actor>
+				<id>tag:gowalla.com,2009:/users/5073</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+				<title>Robert Harm</title>
+				<link rel="alternate" type="text/html" href="http://gowalla.com/users/5073" />
+				<link rel="image" type="image/jpeg" href="http://s3.amazonaws.com/static.gowalla.com/users/5073-standard.jpg?1259921374"/>
+			</activity:actor>
+			<activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+			<activity:verb>http://gowalla.com/schema/1.0/visit</activity:verb>
+		    <activity:object>
+				<id>tag:gowalla.com,2009:/spots/237393</id>
+				<activity:object-type>http://activitystrea.ms/schema/1.0/place</activity:object-type>
+				<activity:object-type>http://gowalla.com/schema/1.0/spot</activity:object-type>
+				<georss:point>48.2178706333 16.3971415833</georss:point>
+		    	<title>Friends4friends</title>
+		    	<published>2010-02-02T07:49:02+00:00</published>
+		    	<link rel="alternate" type="text/html" href="http://gowalla.com/spots/237393" />
+				<link rel="image" type="image/jpeg" href="http://static.gowalla.com/categories/58-standard.png"/>
+		    </activity:object>
+
+		</entry>
+</feed>

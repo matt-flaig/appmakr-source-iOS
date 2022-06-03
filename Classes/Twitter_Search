@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/appmakr</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=appmakr" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=appmakr" rel="self"/>
+  <title>appmakr - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=appmakr&amp;since_id=8548362680" rel="refresh"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2010-02-02T16:25:36Z</updated>
+  <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=8548362680&amp;page=2&amp;q=appmakr" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:8548362680</id>
+    <published>2010-02-02T16:25:36Z</published>
+    <link type="text/html" href="http://twitter.com/mikepetrucci/statuses/8548362680" rel="alternate"/>
+    <title>AppMakr Fail Update - @AppMakr (on twitter) has gotten back to me and said that they are forwarding my blog... http://tumblr.com/xjz62kfwy</title>
+    <content type="html">&lt;b&gt;AppMakr&lt;/b&gt; Fail Update - &lt;a href=&quot;http://twitter.com/AppMakr&quot;&gt;@&lt;b&gt;AppMakr&lt;/b&gt;&lt;/a&gt; (on twitter) has gotten back to me and said that they are forwarding my blog... &lt;a href=&quot;http://tumblr.com/xjz62kfwy&quot;&gt;http://tumblr.com/xjz62kfwy&lt;/a&gt;</content>
+    <updated>2010-02-02T16:25:36Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/627774559/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.tumblr.com/&quot; rel=&quot;nofollow&quot;&gt;Tumblr&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>mikepetrucci (Mike Petrucci)</name>
+      <uri>http://twitter.com/mikepetrucci</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8547911417</id>
+    <published>2010-02-02T16:12:49Z</published>
+    <link type="text/html" href="http://twitter.com/giovanni/statuses/8547911417" rel="alternate"/>
+    <title>@AppMakr I did not. I'll check on that.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/AppMakr&quot;&gt;@&lt;b&gt;AppMakr&lt;/b&gt;&lt;/a&gt; I did not. I&amp;apos;ll check on that.</content>
+    <updated>2010-02-02T16:12:49Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/607887902/Icon_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>giovanni (giovanni)</name>
+      <uri>http://twitter.com/giovanni</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8547895969</id>
+    <published>2010-02-02T16:12:23Z</published>
+    <link type="text/html" href="http://twitter.com/mikepetrucci/statuses/8547895969" rel="alternate"/>
+    <title>Hey @MotherApp - What do you think of my problem with @AppMakr and Apple rejecting my app? Can you help? http://bit.ly/9d6XBe</title>
+    <content type="html">Hey &lt;a href=&quot;http://twitter.com/MotherApp&quot;&gt;@MotherApp&lt;/a&gt; - What do you think of my problem with &lt;a href=&quot;http://twitter.com/AppMakr&quot;&gt;@&lt;b&gt;AppMakr&lt;/b&gt;&lt;/a&gt; and Apple rejecting my app? Can you help? &lt;a href=&quot;http://bit.ly/9d6XBe&quot;&gt;http://bit.ly/9d6XBe&lt;/a&gt;</content>
+    <updated>2010-02-02T16:12:23Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/627774559/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>mikepetrucci (Mike Petrucci)</name>
+      <uri>http://twitter.com/mikepetrucci</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8546626419</id>
+    <published>2010-02-02T15:37:36Z</published>
+    <link type="text/html" href="http://twitter.com/twinkleboi/statuses/8546626419" rel="alternate"/>
+    <title>@AppMakr how long does it take once it's approved, seeing as it's an update to the current version of the app?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/AppMakr&quot;&gt;@&lt;b&gt;AppMakr&lt;/b&gt;&lt;/a&gt; how long does it take once it&amp;apos;s approved, seeing as it&amp;apos;s an update to the current version of the app?</content>
+    <updated>2010-02-02T15:37:36Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/656131327/2ft6__2__normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>twinkleboi (Toby)</name>
+      <uri>http://twitter.com/twinkleboi</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8546007740</id>
+    <published>2010-02-02T15:20:56Z</published>
+    <link type="text/html" href="http://twitter.com/firebrandmedia/statuses/8546007740" rel="alternate"/>
+    <title>@AppMakr Can I get a status update on this ticket 759709?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/AppMakr&quot;&gt;@&lt;b&gt;AppMakr&lt;/b&gt;&lt;/a&gt; Can I get a status update on this ticket 759709?</content>
+    <updated>2010-02-02T15:20:56Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/402903938/FM_avatar_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>firebrandmedia (Firebrand Media, LLC)</name>
+      <uri>http://twitter.com/firebrandmedia</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8543631501</id>
+    <published>2010-02-02T14:14:36Z</published>
+    <link type="text/html" href="http://twitter.com/TinaCook/statuses/8543631501" rel="alternate"/>
+    <title>@AppMakr Thanks for the heads up and for re-submitting. You guys rock! Will it take 1-2 weeks for Apple to approve again? Very exciting!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/AppMakr&quot;&gt;@&lt;b&gt;AppMakr&lt;/b&gt;&lt;/a&gt; Thanks for the heads up and for re-submitting. You guys rock! Will it take 1-2 weeks for Apple to approve again? Very exciting!</content>
+    <updated>2010-02-02T14:14:36Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/623398905/tinacook0912fb_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>TinaCook (Tina Cook )</name>
+      <uri>http://twitter.com/TinaCook</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8541955004</id>
+    <published>2010-02-02T13:24:02Z</published>
+    <link type="text/html" href="http://twitter.com/mikepetrucci/statuses/8541955004" rel="alternate"/>
+    <title>@AppMakr I greatly appreciate that!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/AppMakr&quot;&gt;@&lt;b&gt;AppMakr&lt;/b&gt;&lt;/a&gt; I greatly appreciate that!</content>
+    <updated>2010-02-02T13:24:02Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/627774559/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>mikepetrucci (Mike Petrucci)</name>
+      <uri>http://twitter.com/mikepetrucci</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8541846784</id>
+    <published>2010-02-02T13:20:37Z</published>
+    <link type="text/html" href="http://twitter.com/IrishStudies/statuses/8541846784" rel="alternate"/>
+    <title>@AppMakr Ticket ID: 1998 - Thanks.  Just curious as to the time it takes.  Create site for making apps!</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/AppMakr&quot;&gt;@&lt;b&gt;AppMakr&lt;/b&gt;&lt;/a&gt; Ticket ID: 1998 - Thanks.  Just curious as to the time it takes.  Create site for making apps!</content>
+    <updated>2010-02-02T13:20:37Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/84047983/dohc_harp_blue_rgb__391_x_600__normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>IrishStudies (Irish Studies)</name>
+      <uri>http://twitter.com/IrishStudies</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8541749001</id>
+    <published>2010-02-02T13:17:30Z</published>
+    <link type="text/html" href="http://twitter.com/AppMakr/statuses/8541749001" rel="alternate"/>
+    <title>@mikepetrucci I will pass on your url to the founders. Thx</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/mikepetrucci&quot;&gt;@mikepetrucci&lt;/a&gt; I will pass on your url to the founders. Thx</content>
+    <updated>2010-02-02T13:17:30Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/190164803/twitterlogo_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>AppMakr (AppMakr | PointAbout)</name>
+      <uri>http://twitter.com/AppMakr</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8541513258</id>
+    <published>2010-02-02T13:10:01Z</published>
+    <link type="text/html" href="http://twitter.com/AppMakr/statuses/8541513258" rel="alternate"/>
+    <title>@soulcruzer Asking support to update you re: 758733.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/soulcruzer&quot;&gt;@soulcruzer&lt;/a&gt; Asking support to update you re: 758733.</content>
+    <updated>2010-02-02T13:10:01Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/190164803/twitterlogo_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>AppMakr (AppMakr | PointAbout)</name>
+      <uri>http://twitter.com/AppMakr</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8541420833</id>
+    <published>2010-02-02T13:06:59Z</published>
+    <link type="text/html" href="http://twitter.com/mikepetrucci/statuses/8541420833" rel="alternate"/>
+    <title>@AppMakr Thanks.  I'm really anxious for a response.  Did you read my post?  What do you think? http://bit.ly/dD7OKn</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/AppMakr&quot;&gt;@&lt;b&gt;AppMakr&lt;/b&gt;&lt;/a&gt; Thanks.  I&amp;apos;m really anxious for a response.  Did you read my post?  What do you think? &lt;a href=&quot;http://bit.ly/dD7OKn&quot;&gt;http://bit.ly/dD7OKn&lt;/a&gt;</content>
+    <updated>2010-02-02T13:06:59Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/627774559/image_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>mikepetrucci (Mike Petrucci)</name>
+      <uri>http://twitter.com/mikepetrucci</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8541394426</id>
+    <published>2010-02-02T13:06:09Z</published>
+    <link type="text/html" href="http://twitter.com/AppMakr/statuses/8541394426" rel="alternate"/>
+    <title>@samdale12 Good point; I have sent your suggestion to the founders. Do you need me to check on your build# 1699?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/samdale12&quot;&gt;@samdale12&lt;/a&gt; Good point; I have sent your suggestion to the founders. Do you need me to check on your build# 1699?</content>
+    <updated>2010-02-02T13:06:09Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/190164803/twitterlogo_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>AppMakr (AppMakr | PointAbout)</name>
+      <uri>http://twitter.com/AppMakr</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8541341400</id>
+    <published>2010-02-02T13:04:24Z</published>
+    <link type="text/html" href="http://twitter.com/AppMakr/statuses/8541341400" rel="alternate"/>
+    <title>@hornedry2k I see your app was submitted to apple; did you get that information?</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/hornedry2k&quot;&gt;@hornedry2k&lt;/a&gt; I see your app was submitted to apple; did you get that information?</content>
+    <updated>2010-02-02T13:04:24Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/190164803/twitterlogo_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>AppMakr (AppMakr | PointAbout)</name>
+      <uri>http://twitter.com/AppMakr</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8541287377</id>
+    <published>2010-02-02T13:02:34Z</published>
+    <link type="text/html" href="http://twitter.com/AppMakr/statuses/8541287377" rel="alternate"/>
+    <title>@twinkleboi Looks like it has been approved by Apple.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/twinkleboi&quot;&gt;@twinkleboi&lt;/a&gt; Looks like it has been approved by Apple.</content>
+    <updated>2010-02-02T13:02:34Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/190164803/twitterlogo_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>AppMakr (AppMakr | PointAbout)</name>
+      <uri>http://twitter.com/AppMakr</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8541254835</id>
+    <published>2010-02-02T13:01:33Z</published>
+    <link type="text/html" href="http://twitter.com/Robinzest/statuses/8541254835" rel="alternate"/>
+    <title>@miekg je zou hier een een kijkje kunnen nemen: http://appmakr.com/</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/miekg&quot;&gt;@miekg&lt;/a&gt; je zou hier een een kijkje kunnen nemen: &lt;a href=&quot;http://appmakr.com/&quot;&gt;http://&lt;b&gt;appmakr&lt;/b&gt;.com/&lt;/a&gt;</content>
+    <updated>2010-02-02T13:01:33Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/494665069/630334637_6_BgM0_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>nl</twitter:lang>
+    <author>
+      <name>Robinzest (Robin Datema)</name>
+      <uri>http://twitter.com/Robinzest</uri>
+    </author>
+  </entry>
+</feed>

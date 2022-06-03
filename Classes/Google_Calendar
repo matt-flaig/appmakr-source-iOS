@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gCal='http://schemas.google.com/gCal/2005' xmlns:gd='http://schemas.google.com/g/2005'><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic</id><updated>2010-02-01T20:59:42.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='text'>Atlassian Webinars</title><subtitle type='text'>Public calendar for Atlassian webinar schedule</subtitle><link rel='alternate' type='text/html' href='http://www.google.com/calendar/embed?src=e3i0r8d8d0cst4u8p2v7mdom4o@group.calendar.google.com'/><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic'/><link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/batch'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic?max-results=25'/><link rel='next' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic?start-index=26&amp;max-results=25'/><author><name>Jon Silvers</name><email>jsilvers@atlassian.com</email></author><generator version='1.0' uri='http://www.google.com/calendar'>Google Calendar</generator><openSearch:totalResults>37</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><gCal:timezone value='America/Los_Angeles'/><gCal:timesCleaned value='0'/><gd:where valueString=''/><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/2391a7q0oi6semukrimvtlintk</id><published>2010-02-01T20:59:42.000Z</published><updated>2010-02-01T20:59:42.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Plugin of the Month: Confluence to your Desktop via ConfluenceFx</title><summary type='html'>When: Thu Feb 25, 2010 9am to 10am&amp;nbsp;
+PST&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Feb 25, 2010 9am to 10am 
+PST&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: ConfluenceFx is the first enterprise solution that brings Confluence to your desktop. It enables your teams to collaborate more effectively and keeps all your community up-to-date thanks to its real-time notifications and collaborative user interactions.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F818962762&amp;amp;ust=1265134961630000&amp;amp;usg=AFQjCNFCcAw6p-cwA4OYvXANmsgcSYR9hw" target="_blank"&gt;REGISTER NOW: Thu, Feb 25, 2010 9:00 AM - 10:00 AM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=MjM5MWE3cTBvaTZzZW11a3JpbXZ0bGludGsgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/2391a7q0oi6semukrimvtlintk'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/sis74qusogla6ncu0on4jifqr4</id><published>2010-01-29T00:07:23.000Z</published><updated>2010-01-29T00:07:23.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Plugin of the Month: Content Import Plugin for Confluence</title><summary type='html'>When: Thu Feb 18, 2010 9am to 10am&amp;nbsp;
+PST&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Feb 18, 2010 9am to 10am 
+PST&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: The Content Import Plugin faciliates imports of any type of content into Confluence. The data has to be provided in a transfer format, which is basically an XML notation of Confluence data structures. The format supports nearly all of the Confluence content type (pages, spaces, blog posts, comments, attachments) and the according meta data (creator, modifier, dates, labels). The plugin is an efficient tool to support the migration of content from any system, e.g. legacy wikis, blogs and message boards, without the need to know the Confluence API.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F718218114&amp;amp;ust=1265134961632000&amp;amp;usg=AFQjCNHwe49g4fLCtTsG3muRMKiO0H6zKA" target="_blank"&gt;REGISTER NOW: Thu, Feb 18, 2010 9:00 AM - 10:00 AM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=c2lzNzRxdXNvZ2xhNm5jdTBvbjRqaWZxcjQgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/sis74qusogla6ncu0on4jifqr4'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/5qqtgora8g871l1asm5apgme08</id><published>2010-01-14T19:35:35.000Z</published><updated>2010-01-27T09:59:08.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Zend/ Atlassian co-webinar - Why use an IDE, Issue Tracker and Source Control?</title><summary type='html'>When: Tue Jan 19, 2010 9am to 10am&amp;nbsp;
+PST&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Tue Jan 19, 2010 9am to 10am 
+PST&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Have you ever wondered how you could advance your PHP development? Have you considered using an Integrated Development Environment (IDE), an Issue Tracker or a Version Control tool, but were concerned about how complex it might be?
+Taking PHP development to the next level may be easier than you think.  Attend this webinar, hosted by Atlassian and Zend, to hear the story of one (fictitious) company that transformed its development process. See how they implemented Zend Studio, Jira and Subversion to get more better-quality code out sooner.  &lt;a href="http://www.google.com/url?q=http%3A%2F%2Fwww.zend.com%2Fwebinar%2Fregister%2F%3FeventNumber%3D579052176&amp;amp;ust=1265134961633000&amp;amp;usg=AFQjCNHHaf1-EN_km-HRfMyrFA48jhx8BA" target="_blank"&gt;REGISTER NOW:  Tues, Jan 19, 2010 9:00 AM - 10:00 AM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=NXFxdGdvcmE4Zzg3MWwxYXNtNWFwZ21lMDggZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/5qqtgora8g871l1asm5apgme08'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/i5t0hcb4ab4ae3gp53p7uqbop4</id><published>2010-01-12T22:06:07.000Z</published><updated>2010-01-27T09:59:08.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Voice of the Customer: Developing vxVistA.org with the Atlassian Suite</title><summary type='html'>When: Thu Jan 28, 2010 9am to 10am&amp;nbsp;
+PST&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Jan 28, 2010 9am to 10am 
+PST&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Using the Atlassian suite of products and plugins, DSS Inc, Open Health Tools and CustomWare developed a collaboration environment to support a Healthcare Open Source Community called vxVistA. vxVistA is a modified and enhanced version of the System VistA used by the Department of Veterans Affairs (VA). They integrated multiple plugins like Balsamiq, Gliffy, Adaptavist Community Bubbles, Taskdoc, ad hoc workflows, etc.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F715969259&amp;amp;ust=1265134961634000&amp;amp;usg=AFQjCNE7fiU1R5XhKFB4wrHBwViFqIr1fw" target="_blank"&gt;REGISTER NOW: Thu, Jan 28, 2010 9:00 AM - 10:00 AM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=aTV0MGhjYjRhYjRhZTNncDUzcDd1cWJvcDQgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/i5t0hcb4ab4ae3gp53p7uqbop4'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/v1pnpn3pek5n1gomav9kb27v40</id><published>2010-01-12T21:58:24.000Z</published><updated>2010-01-27T09:59:08.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Plugin of the Month: JIRA Bridge for HP Quality Center from Orasi</title><summary type='html'>When: Wed Jan 27, 2010 9am to 10am&amp;nbsp;
+PST&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Wed Jan 27, 2010 9am to 10am 
+PST&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Orasi is a leading provider of software testing services using the HP test management and automation technology. They built JIRA Bridge for HP Quality Center which is an enterprise-class integration solution that enables organizations to harness the full potential of JIRA and HP Quality Center software because it synchronizes defect information between the two tools. This bridge enables your QA and development teams to collaborate efficiently by coordinating all issue information between the teams.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F303499578&amp;amp;ust=1265134961635000&amp;amp;usg=AFQjCNGNsoijD-VSbhezRSZFFf0pzIE3hQ" target="_blank"&gt;REGISTER NOW: Wed, Jan 27, 2010 9:00 AM - 10:00 AM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=djFwbnBuM3BlazVuMWdvbWF2OWtiMjd2NDAgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/v1pnpn3pek5n1gomav9kb27v40'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/kokbagabaup7rqtrvug71pma20</id><published>2009-12-14T23:40:13.000Z</published><updated>2010-01-27T09:59:08.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>JIRA and Confluence at Zend Framework</title><summary type='html'>When: Wed Jan 6, 2010 9am to 10am&amp;nbsp;
+PST&lt;br&gt;
+
+&lt;br&gt;Where: Zend Framework
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Wed Jan 6, 2010 9am to 10am 
+PST&lt;br /&gt;
+
+&lt;br /&gt;Where: Zend Framework
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Zend Framework is arguably the most popular PHP framework available, boasting millions of downloads and an active community. Early in its history, a decision was made to use JIRA and Confluence as developer tools to help manage issues, feature requests, and our proposal workflow. The tools have weathered a number of upgrades, a rapidly expanding user base (and thus issue reports), and a growing number of contributors, and provide immense benefit for the Zend Framework community.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F300525890&amp;amp;ust=1265134961637000&amp;amp;usg=AFQjCNEG-bBbEz1GhIuK_PC2t9R-YEh8iA" target="_blank"&gt;REGISTER NOW: Wed, Jan 6, 2010 9:00 AM - 10:00 AM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=a29rYmFnYWJhdXA3cnF0cnZ1ZzcxcG1hMjAgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/kokbagabaup7rqtrvug71pma20'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/kq4smdq6tudjroocns7kng9tho</id><published>2009-11-17T21:23:38.000Z</published><updated>2010-01-08T05:29:50.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Plugin of the Month: JIRA Connector for Jama Contour</title><summary type='html'>When: Thu Dec 10, 2009 9am to 10am&amp;nbsp;
+PST&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Dec 10, 2009 9am to 10am 
+PST&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: See the JIRA Connector for Contour in action. The JIRA Connector integrates Jama Contour, a popular tool used for managing requirements, with JIRA. This integration connects business teams responsible for product requirements and planning with development teams responsible for implementation.
+
+If you’re unfamiliar with Contour, it’s a Web application used by analysts and product managers to gather and manage requirements, track changes to scope, and plan releases. &lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F812218835&amp;amp;ust=1265134961638000&amp;amp;usg=AFQjCNG96mMhhyFMnG0LRIy48NaxNVVHAg" target="_blank"&gt;REGISTER NOW: 
+Thu, Dec 10, 2009 9:00 AM - 10:00 AM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=a3E0c21kcTZ0dWRqcm9vY25zN2tuZzl0aG8gZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/kq4smdq6tudjroocns7kng9tho'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/3c2hu71eh8q0l8cfrur11aumk4</id><published>2008-12-15T23:01:52.000Z</published><updated>2009-12-17T23:46:14.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Voice of the Customer - Oren Teich, Replicate Technologies: Agile with Atlassian</title><summary type='html'>When: Thu Apr 9, 2009 9am to 10am&amp;nbsp;
+PDT&lt;br&gt;
+&lt;br&gt;Who: Atlassian Webinars
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Apr 9, 2009 9am to 10am 
+PDT&lt;br /&gt;
+&lt;br /&gt;Who: Atlassian Webinars
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Please join this webinar if you plan on using agile practices for your software development. 
+
+Oren will discuss how to apply agile best practices to get your statrup started with our suite of products. &lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F769256126&amp;amp;ust=1265134961639000&amp;amp;usg=AFQjCNGIHTm6N2BytQRSiYlNeZX9kQdAFA" target="_blank"&gt;REGISTER NOW: Apr 9, 2009 9:00 AM - 10:00 AM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=M2MyaHU3MWVoOHEwbDhjZnJ1cjExYXVtazQgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/3c2hu71eh8q0l8cfrur11aumk4'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/hgnsf4k45vh11319liv9jbaess</id><published>2009-11-04T22:00:05.000Z</published><updated>2009-12-05T07:06:11.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Voice of the Customer: Agile with JIRA, FishEye, and other tools</title><summary type='html'>When: Wed Nov 11, 2009 11am to 12pm&amp;nbsp;
+PST&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Wed Nov 11, 2009 11am to 12pm 
+PST&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: In this webinar we will discuss how Backstop Solutions Group successfully manages a regular and rapid release cycle using JIRA, Fisheye, and some other tools. Some of those other tools were made in-house and I am especially interested in sharing our experience in integrating JIRA with them, and in hearing from other, similar shops.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F984672291&amp;amp;ust=1265134961640000&amp;amp;usg=AFQjCNHEVeKIwOY5iyie-iIV1rTP2EQ8vQ" target="_blank"&gt;REGISTER NOW: Wednesday, November 11, 2009 11:00 AM - 12:00 PM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=aGduc2Y0azQ1dmgxMTMxOWxpdjlqYmFlc3MgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/hgnsf4k45vh11319liv9jbaess'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/7m27g3ebo02tiqlii5ljgcvqdc</id><published>2009-10-19T23:20:14.000Z</published><updated>2009-12-05T07:06:11.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Plugin of the Month: VertygoSLA for JIRA</title><summary type='html'>When: Thu Nov 19, 2009 9am to 10am&amp;nbsp;
+PST&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Nov 19, 2009 9am to 10am 
+PST&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: VertygoSLA gives organizations the opportunity to support their SLAs (Service Level Agreement) based on acknowledgment time or resolution time commitments.
+
+In JIRA, a UI displays a color code which allows you to manage, prioritize, and respect the time commitment with your customer. You can display the time remaining before the due date of your commitment.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F461520042&amp;amp;ust=1265134961641000&amp;amp;usg=AFQjCNE2aiYSqMMXX5qKeseLLVZ6izvIsg" target="_blank"&gt;REGISTER NOW: Thu, Nov 19, 2009 9:00 AM - 10:00 AM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=N20yN2czZWJvMDJ0aXFsaWk1bGpnY3ZxZGMgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/7m27g3ebo02tiqlii5ljgcvqdc'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/j52d1ag06ja2s2tg410pajoigg</id><published>2009-10-02T20:08:36.000Z</published><updated>2009-11-19T10:46:56.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Designing for Adoption by HeadShift</title><summary type='html'>When: Thu Oct 22, 2009 3pm to 4pm&amp;nbsp;
+PDT&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Oct 22, 2009 3pm to 4pm 
+PDT&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: So, you have installed Confluence - now what? 
+
+Part of the Dachis Group, HeadShift has deep technical skills in best-of-breed social platforms like Confluence. We have integrated Confluence for our clients to produce smarter, simpler, social solutions that work for their users, rather than the other way round. 
+
+The Webinar will explain the benefits of customising Confluence and applying a user centred approach that overcomes the typical barriers of wiki adoption.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F391451595&amp;amp;ust=1265134961643000&amp;amp;usg=AFQjCNHLWDauiHHEeqr0m7YLzxL8QZ6NrA" target="_blank"&gt;REGISTER NOW:  Thu, Oct 22, 2009 3:00 PM - 4:00 PM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ajUyZDFhZzA2amEyczJ0ZzQxMHBham9pZ2cgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/j52d1ag06ja2s2tg410pajoigg'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/l44ist1h5hmuepoagmck4m9uok</id><published>2009-08-24T22:56:12.000Z</published><updated>2009-10-30T23:44:16.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Plugin of the Month: Taskdock for Confluence</title><summary type='html'>When: Thu Sep 24, 2009 9am to 10am&amp;nbsp;
+PDT&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Sep 24, 2009 9am to 10am 
+PDT&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Taskdock for Confluence is a plugin which drives engagement through inline tasks, targeted Confluence actions, task follow-up, and expanded publishing through email. It allows users to easily and actively participate in content creation, upkeep, and utilization within Confluence.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F926143882&amp;amp;ust=1265134961644000&amp;amp;usg=AFQjCNGUStK6cP_SX8KuoSz5Z-m-jxeBZg" target="_blank"&gt;REGISTER NOW:  Thu, Sep 24, 2009 9:00 AM - 10:00 AM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bDQ0aXN0MWg1aG11ZXBvYWdtY2s0bTl1b2sgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/l44ist1h5hmuepoagmck4m9uok'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/8agfovpgl7st51j825cnlado7k</id><published>2009-09-25T18:30:37.000Z</published><updated>2009-10-11T07:49:49.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Plugin of the Month: Scroll for Confluence</title><summary type='html'>When: Thu Nov 5, 2009 9am to 10am&amp;nbsp;
+PST&lt;br&gt;
+&lt;br&gt;Who: Atlassian Webinars
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Nov 5, 2009 9am to 10am 
+PST&lt;br /&gt;
+&lt;br /&gt;Who: Atlassian Webinars
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: In many companies Confluence contains a lot of valuable information -
+technical documentation, training materials, reports, requirements
+specification, ...  Have you ever thought about single-source this
+information and create manuals, books or brochures, etc.?
+
+The Scroll Wiki Exporter lets you do this - it turns your Confluence
+wiki into THE source for single source publishing.
+
+Please join us, when we speak with Tobias Anstett about Scroll&amp;#39;s
+single source publishing features and Documentation 2.0.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F912197371&amp;amp;ust=1265134961645000&amp;amp;usg=AFQjCNHqWlSQItY80pdU5GUfHWgKnFNIyQ" target="_blank"&gt;REGISTER NOW: Thu, Nov 5, 2009 9:00 AM - 10:00 AM PST&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=OGFnZm92cGdsN3N0NTFqODI1Y25sYWRvN2sgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/8agfovpgl7st51j825cnlado7k'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/10ouipph0jaugon23laa7e08bk</id><published>2009-07-30T00:03:35.000Z</published><updated>2009-08-05T22:34:24.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Catch Limited's Enterprise Tester</title><summary type='html'>When: Fri Aug 21, 2009 9am to 10am&amp;nbsp;
+PDT&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Fri Aug 21, 2009 9am to 10am 
+PDT&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Enterprise Tester is a web based Test Management tool that implements a world first integration with Sparx Systems, Enterprise Architect and Atlassian&amp;#39;s JIRA allowing automated test script creation from UML models saving the project team value time while providing a full end-to-end lifecycle solution.
+
+Enterprise Tester has been built to provide a flexible test management environment that allows teams to run Agile or traditional projects within the same tool.
+
+&lt;strong&gt;This webinar is being hosted across the International Time Zone - please note your exact day and time of this webinar.&lt;/strong&gt;
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F500949810&amp;amp;ust=1265134961646000&amp;amp;usg=AFQjCNHgW4psjtkUTDtIo2usn6u6iBHNGQ" target="_blank"&gt;REGISTER NOW: Thu, Aug 21, 2009 9:00 AM - 10:00 AM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=MTBvdWlwcGgwamF1Z29uMjNsYWE3ZTA4YmsgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/10ouipph0jaugon23laa7e08bk'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/nv8aft9hkrask22hhag5jp6k8g</id><published>2009-07-23T23:28:49.000Z</published><updated>2009-07-23T23:28:49.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Summit Sponsor - Contegix brings us Zeus!</title><summary type='html'>When: Thu Aug 13, 2009 9am to 10am&amp;nbsp;
+PDT&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Aug 13, 2009 9am to 10am 
+PDT&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Project Zeus is the Contegix enterprise cloud computing service.  Zeus is based on VMWare&amp;#39;s powerful ESX hypervisors, with a custom API built on top.  Contegix will be offering not only unmanaged utility VMs, but fully managed virtual machines as well.  Furthermore, with true load balancing and persistent storage built right in, Zeus brings cloud computing to an Enterprise level.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F718343723&amp;amp;ust=1265134961647000&amp;amp;usg=AFQjCNGO3tCWVNkjnHhrkZd3JntbpNyU8w" target="_blank"&gt;REGISTER NOW: Thu, Aug 13, 2009 9:00 AM - 10:00 AM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bnY4YWZ0OWhrcmFzazIyaGhhZzVqcDZrOGcgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/nv8aft9hkrask22hhag5jp6k8g'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/a83260a30ni058j6p77lrggeis</id><published>2009-07-13T17:12:56.000Z</published><updated>2009-07-13T17:12:57.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Atlassian Summit</title><summary type='html'>When: Sun May 31, 2009 to Tue Jun 2, 2009&amp;nbsp;
+&lt;br&gt;
+
+&lt;br&gt;Where: San Francisco, California, USA
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Sun May 31, 2009 to Tue Jun 2, 2009 
+&lt;br /&gt;
+
+&lt;br /&gt;Where: San Francisco, California, USA
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Atlassian Summit is scheduled for 2009! Please join us for 2.5 days, May 31 to June 2, 2009, at the Palace Hotel in San Francisco, as we discuss all-things Atlassian: the future of JIRA and Confluence, roadmaps, feature previews and demos, how-tos on deployment, tuning and mods, and lots more.  Learn more and register on the Atlassian &lt;a href="http://www.google.com/url?q=http%3A%2F%2Fwww.atlassian.com%2Fsummit&amp;amp;ust=1265134961649000&amp;amp;usg=AFQjCNEz4nIjrAO0kPWNWn4j-VMJ3zzPgg" target="_blank"&gt;Summit website&lt;/a&gt;.</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=YTgzMjYwYTMwbmkwNThqNnA3N2xyZ2dlaXMgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/a83260a30ni058j6p77lrggeis'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/ae4l01d72b1gf29cbs3l026os8</id><published>2009-07-07T21:45:41.000Z</published><updated>2009-07-07T21:47:52.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>SharePoint Connector for JIRA from CustomWare</title><summary type='html'>When: Thu Jul 16, 2009 1pm to Thu Jul 16, 2009 5pm&amp;nbsp;
+PDT&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Jul 16, 2009 1pm to Thu Jul 16, 2009 5pm 
+PDT&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: In this webinar, we&amp;#39;ll take a closer look at the SharePoint Connector for JIRA, which allows your enterprise users who don&amp;#39;t live day in/day out inside of JIRA to create, view and manage their issues. We&amp;#39;ll also look at integration with Salesforce.com and CustomWare&amp;#39;s Vault Plugin, which allows the storage of secure data such as passwords inside of the wiki.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F933609986&amp;amp;ust=1265134961650000&amp;amp;usg=AFQjCNF7xuD8ahPkgnQD_C3tF4hpDGx4Nw" target="_blank"&gt;REGISTER NOW: Thu, Jul 16, 2009 1:00 PM - 2:00 PM PDT 
+***Day and time will differ for Australian based attendees***&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=YWU0bDAxZDcyYjFnZjI5Y2JzM2wwMjZvczggZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/ae4l01d72b1gf29cbs3l026os8'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/qo0v9k4rgaioto08nfqaie2e8k</id><published>2009-07-01T23:10:49.000Z</published><updated>2009-07-01T23:12:33.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Voice of the Customer: zAgile Teamwork with CEO &amp;amp; Founder</title><summary type='html'>When: Thu Jul 23, 2009 9am to 10am&amp;nbsp;
+PDT&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Jul 23, 2009 9am to 10am 
+PDT&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: zAgile Teamwork enables your software engineering teams to maximize productivity and minimize time to delivery. zAgile Teamwork delivers easy, affordable agile requirements and test case management right inside Confluence, and it integrates those with project, task, and defect management inside JIRA. Therefore, teams collaborate using Confluence, and they manage the execution via JIRA in a seamless way.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F294762050&amp;amp;ust=1265134961651000&amp;amp;usg=AFQjCNH2jx5LO3LkJolG1_n9lLXAdAm_bA" target="_blank"&gt;JOIN NOW: Thu, Jul 23, 2009 9:00 AM - 10:00 AM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=cW8wdjlrNHJnYWlvdG8wOG5mcWFpZTJlOGsgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/qo0v9k4rgaioto08nfqaie2e8k'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/q5hq9dnlvjdrlocu34iil1jv5o</id><published>2009-06-09T22:54:13.000Z</published><updated>2009-06-09T22:54:13.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>POM: Wil Anderson, Go2Group - various plugins</title><summary type='html'>When: Thu Jun 25, 2009&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Jun 25, 2009&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Go2Group provides a wide range of services for all Atlassian products - from setup to support and everything in between. Today, we&amp;#39;re talking about the wildly popular Go2Group JaM Plugin, the flexible Go2Group CRM Plugin, and the new kid on the block, Go2Group synapseRT.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F471256274&amp;amp;ust=1265134961652000&amp;amp;usg=AFQjCNEVEjpCefHb2ERMlAo3MAlIp2kFsQ" target="_blank"&gt;REGISTER NOW: 
+Thu, Jun 25, 2009 9:00 AM - 10:00 AM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=cTVocTlkbmx2amRybG9jdTM0aWlsMWp2NW8gZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/q5hq9dnlvjdrlocu34iil1jv5o'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/s0h31no3nu8vbe4r3u9i09fr6o</id><published>2009-06-09T22:38:28.000Z</published><updated>2009-06-09T22:38:28.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Summit Sponsor: Mat Gauvin, Appfire</title><summary type='html'>When: Thu Jun 18, 2009 9am to 10am&amp;nbsp;
+PDT&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Jun 18, 2009 9am to 10am 
+PDT&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Meet Fireball - The Collaboration Appliance built for Atlassian Software!
+
+Join Mat Gauvin, Appfire COO, as he explains how Fireball can benefit any organization, no matter what size, to get up an running in minimal time. He will discuss how the Fireball streamlines time-consuming research, install, config, tuning &amp;amp; upgrade responsibilities, significantly reducing IT overhead.
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F129309794&amp;amp;ust=1265134961653000&amp;amp;usg=AFQjCNG140DJQaKiKIVRMTml6bwpQhXQBg" target="_blank"&gt;REGISTER NOW: Thursday, June 18, 2009 9:00 AM - 10:00 AM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=czBoMzFubzNudTh2YmU0cjN1OWkwOWZyNm8gZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/s0h31no3nu8vbe4r3u9i09fr6o'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/jjq5vlo0mgr7gv2iff8jlus5ik</id><published>2009-04-21T21:27:32.000Z</published><updated>2009-05-04T23:21:05.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>VOTC - Jeff Schilling, S1 Enterprise: Agile development</title><summary type='html'>When: Thu May 14, 2009 11am to 12pm&amp;nbsp;
+PDT&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu May 14, 2009 11am to 12pm 
+PDT&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: S1 Enterprise leverages Jira, Confluence, Clover, and Fisheye to create an integrated toolchain that delivers value to the development teams. 
+
+Join Jeff Schilling, S1 Enterprise&amp;#39;s CTO for a whirlwind tour of their automated Software Development Lifecycle. You&amp;#39;ll see how automation in Confluence brings together the information needs of our agile development teams while simplifying regulatory compliance reporting. See how the teams replaced reams of paper based process documentation with an intuitive, automated system - all built out on the Atlassian tool stack. 
+
+&lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F743804778&amp;amp;ust=1265134961655000&amp;amp;usg=AFQjCNHdGIFPE85fgyOvIs26utP2t6NmMw" target="_blank"&gt;REGISTER NOW: Thu, May 14, 2009 11:00 AM - 12:00 AM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ampxNXZsbzBtZ3I3Z3YyaWZmOGpsdXM1aWsgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/jjq5vlo0mgr7gv2iff8jlus5ik'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/8lu2gausaoh1961fbct843p6j8</id><published>2009-03-25T16:55:05.000Z</published><updated>2009-04-24T23:48:59.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Sharing our Stories about Wikis the Pecha Kucha Way</title><summary type='html'>When: Thu May 14, 2009 8am to 9:30am&amp;nbsp;
+PDT&lt;br&gt;
+
+&lt;br&gt;Where: Washington, D.C.
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu May 14, 2009 8am to 9:30am 
+PDT&lt;br /&gt;
+
+&lt;br /&gt;Where: Washington, D.C.
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: If you happen to live in the Washington DC area, you can drop by the World Bank to see presentations by the National Institutes of Health (NIH), National Geographic Socieity (NGS), Defense Technical Information Center (DTIC), Executive Office of the President - Office of Management &amp;amp; Budget (EOP-OMB), and others as they discuss how they&amp;#39;re using Confluence and other wikis. There is limited seating capacity at the event, so for everyone that can&amp;#39;t attend, Atlassian will be delivering a live webcast of the presentation. Read more details about the presentations and speakers.
+
+&lt;br /&gt;&lt;br /&gt;Date &amp;amp; Time: Thursday, May 14, 11:00 AM - 12:30 PM EDT (14:00GMT)
+&lt;br /&gt;
+Location: The American Institute of Architects (2nd Floor Board Room), 1735 New York Avenue NW, Washington, DC 20006. 
+&lt;br /&gt;
+
+&lt;a href="http://www.google.com/url?q=http%3A%2F%2Fwww.surveymonkey.com%2Fs.aspx%3Fsm%3DOhzDEMJEzTYB3_2fj9VwgA2w_3d_3d&amp;amp;ust=1265134961656000&amp;amp;usg=AFQjCNHvs_qP7WXQAf2IlZmXHw81ODcYfg" target="_blank"&gt;Register to attend the live event in Washington, DC&lt;/a&gt;.
+
+&lt;br /&gt;
+- or -
+&lt;br /&gt;
+
+&lt;a href="http://www.google.com/url?q=http%3A%2F%2Fatlassianwiki.wufoo.com%2Fforms%2Fpecha-kucha-webcast%2F&amp;amp;ust=1265134961656000&amp;amp;usg=AFQjCNEQNkcn8gdxbKe55ynH-qDwQzybeg" target="_blank"&gt;Register for the live webcast of the event&lt;/a&gt;.</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=OGx1MmdhdXNhb2gxOTYxZmJjdDg0M3A2ajggZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/8lu2gausaoh1961fbct843p6j8'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/qahto8c4qrp9qg7i7eardkom68</id><published>2008-11-25T20:38:15.000Z</published><updated>2009-03-25T00:32:04.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Confluence 2.10 Customer Webinar</title><summary type='html'>When: Tue Dec 2, 2008 5pm to 6pm&amp;nbsp;
+PST&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Tue Dec 2, 2008 5pm to 6pm 
+PST&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=cWFodG84YzRxcnA5cWc3aTdlYXJka29tNjggZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/qahto8c4qrp9qg7i7eardkom68'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/vlbfupnqsdjh5b7ts8ri0ghnc8</id><published>2008-12-15T22:59:16.000Z</published><updated>2009-03-25T00:32:03.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>Plugin of the Month - Mark Ringer of Rally Software on agile</title><summary type='html'>When: Thu Mar 26, 2009 9am to 10am&amp;nbsp;
+PDT&lt;br&gt;
+&lt;br&gt;Who: Atlassian Webinars
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu Mar 26, 2009 9am to 10am 
+PDT&lt;br /&gt;
+&lt;br /&gt;Who: Atlassian Webinars
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Rally&amp;#39;s ALM solution helps your teams deliver high-value software in rapid iterations, while JIRA lets you prioritize, assign, track, report and audit your issues, from software bugs and help-desk tickets to project tasks and change requests. Together, Rally and JIRA provide an ideal combination of Agile lifecycle management and defect management capabilities, enabling your cross-functional teams to work together more effectively than ever. &lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F649835904&amp;amp;ust=1265134961658000&amp;amp;usg=AFQjCNGNMLB8ai7H-P5xoAIYovL_Zr9HLA" target="_blank"&gt;REGISTER NOW: 26 MAR 9AM PST/17:00 GMT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=dmxiZnVwbnFzZGpoNWI3dHM4cmkwZ2huYzggZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/vlbfupnqsdjh5b7ts8ri0ghnc8'/><author><name>Atlassian Webinars</name></author></entry><entry><id>http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/3kph2hpkvp0iau6dgb44lkot9s</id><published>2009-03-23T17:06:47.000Z</published><updated>2009-03-25T00:31:59.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/><title type='html'>POM - Roberto Dominguez, Comala Tech: Confluence Approvals Workflow Plugin</title><summary type='html'>When: Thu May 21, 2009 9am to 10am&amp;nbsp;
+PDT&lt;br&gt;
+
+
+&lt;br&gt;Event Status: confirmed</summary><content type='html'>When: Thu May 21, 2009 9am to 10am 
+PDT&lt;br /&gt;
+
+
+&lt;br /&gt;Event Status: confirmed
+&lt;br /&gt;Event Description: Organizations have been using Confluence as a collaboration and content sharing tool, however certain controls required by SOX, FDA, ISO 9001, and general governance practices have limited the areas on which it can be used. The Approvals Workflow plugin integrates seamlessly with Confluence to provide an innovative way of managing workflows and content approvals, without compromising the open and collaborative philosophy of a wiki. In this webinar, see different scenarios in which the plugin has been used in areas requiring formal controls and processes. &lt;a href="http://www.google.com/url?q=https%3A%2F%2Fwww2.gotomeeting.com%2Fregister%2F129469061&amp;amp;ust=1265134961660000&amp;amp;usg=AFQjCNFentWBkH4lf1kHl0eEv2D2yGy2_Q" target="_blank"&gt;REGISTER NOW: Thu, May 21, 2009 9:00 AM PDT&lt;/a&gt;</content><link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=M2twaDJocGt2cDBpYXU2ZGdiNDRsa290OXMgZTNpMHI4ZDhkMGNzdDR1OHAydjdtZG9tNG9AZw' title='alternate'/><link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/e3i0r8d8d0cst4u8p2v7mdom4o%40group.calendar.google.com/public/basic/3kph2hpkvp0iau6dgb44lkot9s'/><author><name>Atlassian Webinars</name></author></entry></feed>

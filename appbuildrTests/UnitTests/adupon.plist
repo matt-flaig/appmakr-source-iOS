@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configuration</key>
+	<dict>
+		<key>ad_type</key>
+		<string>adupon</string>
+		<key>ad_tag</key>
+		<string>adupon</string>
+	</dict>
+	<key>application</key>
+	<dict>
+		<key>pk</key>
+		<integer>10001</integer>
+		<key>display_name</key>
+		<string>unit_test</string>
+	</dict>
+</dict>
+</plist>

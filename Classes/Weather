@@ -1,0 +1,68 @@
+<rss version="2.0"> 
+  <channel> 
+    <title>The Weather Channel: Your Local Weather Outlook--Temple Hills, MD (20748)</title> 
+    <link>http://www.weather.com/weather/local/20748?cm_ven=LWO&amp;cm_cat=rss&amp;par=LWO_rss&amp;cm_pla=city_page&amp;cm_ite=cc2&amp;site=city_page</link> 
+    <description><![CDATA[Local Weather Outlook for Temple Hills, MD (20748). Since 1982, The Weather Channel has brought timely weather information to the world. Now via our Local Weather Outlook RSS feed we can keep you up-to-date on the latest weather affecting the cities of your choice including: current local conditions, local Doppler radar, pollen trends, regional video forecasts with expert commentary, and extended forecast details delivered right to your desktop. The Weather Channel...Bringing Weather To Life]]></description> 
+    <language><![CDATA[en-us]]></language> 
+    <copyright><![CDATA[Copyright © 2006, The Weather Channel Interactive, Inc.]]></copyright> 
+    <pubDate>Tue, 2 Feb 2010 17:19:24 GMT</pubDate> 
+    <lastBuildDate>Tue, 2 Feb 2010 17:19:24 GMT</lastBuildDate> 
+    <docs><![CDATA[http://blogs.law.harvard.edi/tech/rss]]></docs> 
+    <ttl>30</ttl> 
+    <image> 
+      <title><![CDATA[The Weather Channel: Local Weather Outlook ]]></title> 
+      <url><![CDATA[http://image.weather.com/web/common/logos/twci_logo_110x104.jpg?cm_ven=LWO&cm_pla=logo&cm_ite=homepage&site=logo&cm_cat=rss&par=LWO_rss]]></url> 
+      <link><![CDATA[http://www.weather.com?cm_ven=LWO&cm_pla=logo&cm_ite=homepage&site=logo&cm_cat=rss&par=LWO_rss]]></link> 
+      <description><![CDATA[Local Weather Outlook from The Weather Channel]]></description> 
+    </image> 
+    <item> 
+      <guid isPermaLink="false">0.3494188889915104</guid> 
+      <pubDate>Tue, 2 Feb 2010 17:19:24 GMT</pubDate> 
+      <title><![CDATA[Current Weather Conditions In Temple Hills, MD (20748)]]></title> 
+      <link><![CDATA[http://www.weather.com/weather/local/20748?cm_pla=city_page&cm_ite=cc&site=city_page&cm_ven=LWO&cm_cat=rss&par=LWO_rss]]></link> 
+      <description><![CDATA[><img src="http://image.weather.com/web/common/wxicons/31/26.gif?12122006" alt="" />Cloudy, and 36 &deg; F. For more details?]]></description> 
+    </item> 
+    <item> 
+      <guid isPermaLink="false">0.9175525895404069</guid> 
+      <pubDate>Tue, 2 Feb 2010 17:19:24 GMT</pubDate> 
+      <title><![CDATA[Your Local Doppler Radar]]></title> 
+      <link><![CDATA[http://www.weather.com/weather/map/20748?cm_ven=LWO&cm_pla=map&site=map&name=dopplerradar100mile_large&cm_ite=doplr_100&cm_cat=rss&par=LWO_rss]]></link> 
+      <description><![CDATA[This map shows the location and intensity of precipitation in your area. The color of the precipitation corresponds to the rate at which it is falling.  This map is updated every 15 minutes.]]></description> 
+    </item> 
+    <item> 
+      <guid isPermaLink="false">1.912996114372707</guid> 
+      <pubDate>Tue, 2 Feb 2010 17:19:24 GMT</pubDate> 
+      <title><![CDATA[Pollen Trend for Temple Hills, MD (20748)]]></title> 
+      <link><![CDATA[http://www.weather.com/outlook/health/allergies/weather/tenday/20748?cm_ven=LWO&cm_pla=city_page&cm_ite=10day_pollen&site=city_page&cm_cat=rss&par=LWO_rss]]></link> 
+      <description><![CDATA[Steady. View complete PollenCast?]]></description> 
+    </item> 
+    <item> 
+      <guid isPermaLink="false">0.9047590316816789</guid> 
+      <pubDate>Tue, 2 Feb 2010 17:19:24 GMT</pubDate> 
+      <title><![CDATA[Video: Your Regional Weather Forecast]]></title> 
+      <link><![CDATA[http://www.weather.com/multimedia/videoplayer.html?clip=756&collection=regwxforecast&cm_ven=LWO&cm_pla=video&site=video&cm_ite=ne&cm_cat=rss&par=LWO_rss]]></link> 
+      <description><![CDATA[Watch what the experts at The Weather Channel® have to say about the weather trends in your area.]]></description> 
+    </item> 
+    <item> 
+      <guid isPermaLink="false">0.6519938740699444</guid> 
+      <pubDate>Tue, 2 Feb 2010 17:19:24 GMT</pubDate> 
+      <title><![CDATA[ADV: Upgrade to weather.com Gold!]]></title> 
+      <link><![CDATA[http://www.weather.com/services/weathergold.html?cm_ven=LWO&cm_pla=ad&cm_ite=gold&site=adv_gold&cm_cat=rss&from=rss&refer=rss&par=LWO_rss]]></link> 
+      <description><![CDATA[Get advanced storm tracking maps and weather for 10 cities in one-click, all with no ads!  Start your free trial now.]]></description> 
+    </item> 
+    <item> 
+      <guid isPermaLink="false">3.2555866535708433</guid> 
+      <pubDate>Tue, 2 Feb 2010 17:19:24 GMT</pubDate> 
+      <title><![CDATA[Your Weekend Forecast For Temple Hills, MD (20748)]]></title> 
+      <link><![CDATA[http://www.weather.com/weather/weekend/20748?cm_ven=LWO&cm_pla=city_page&cm_ite=weekend&site=city_page&cm_cat=rss&locid=20748&par=LWO_rss]]></link> 
+      <description><![CDATA[Chance of Precipitation: Fri: 50% / Sat: 60% / Sun: 10%. For complete forecast details...]]></description> 
+    </item> 
+    <item> 
+      <guid isPermaLink="false">2.125535406071092</guid> 
+      <pubDate>Tue, 2 Feb 2010 17:19:24 GMT</pubDate> 
+      <title><![CDATA[Your 10-Day Forecast for Temple Hills, MD (20748)]]></title> 
+      <link><![CDATA[http://www.weather.com/weather/tenday/20748?cm_ven=LWO&cm_pla=city_page&cm_ite=10-day&site=city_page&cm_cat=rss&locid=20748&par=LWO_rss]]></link> 
+      <description><![CDATA[Today: Rain / Snow & High 37&deg;F / Low 29&deg;F.---- Wed: AM Snow Showers & High 44&deg;F / Low 28&deg;F.---- Thu: Partly Cloudy & High 42&deg;F / Low 29&deg;F.---- Fri & Beyond.... For more details?]]></description> 
+    </item> 
+  </channel> 
+</rss>
