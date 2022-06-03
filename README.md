@@ -1,2 +1,4 @@
 # appmakr-source-iOS
-The iOS source-code of the AppMakr.com website
+The iOS client source-code of the original AppMakr.com website (pre-Infinite Monkeys acquisition in late 2013)
+
+# Notable Apps Made with AppMakr
