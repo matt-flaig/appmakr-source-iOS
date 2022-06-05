@@ -1,4 +1,4 @@
-# appmakr-source-iOS
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Appmaker_logo.png" width="270">
 The iOS client source-code of the original AppMakr.com website (pre-Infinite Monkeys acquisition in late 2013).
 
 # Notable Apps Made with AppMakr
