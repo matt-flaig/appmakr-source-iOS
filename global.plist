@@ -59,15 +59,15 @@
 		<key>template_type</key>
 		<integer>100</integer>
 		<key>urbanairship_app_key</key>
-		<string>xZQ1T4zTRUigTUM_cSPTow</string>
+		<string>xZQ1T4zTBUigTUR_cTQTow</string>
 		<key>urbanairship_app_master_secret</key>
-		<string>R_o70cdATe6v_W4TMKJD0A</string>
+		<string>R_o70cdATe6e_W4RTKJD0A</string>
 		<key>urbanairship_app_secret</key>
-		<string>UWni4VKdRTunbVUVNnPulw</string>
+		<string>UWni5bKdRTunbVUVNnPUlw</string>
 		<key>urbanairship_push_secret</key>
-		<string>R_o70cdATe6v_W4TMKJD0A</string>
+		<string>R_o70c1TRe6v_W4TMKJDBV</string>
 		<key>user</key>
-		<integer>27321</integer>
+		<integer>12345</integer>
 		<key>version_no</key>
 		<integer>211</integer>
 	</dict>
@@ -76,7 +76,7 @@
 		<key>alcohol_tobacco_drug_use_references</key>
 		<string>none</string>
 		<key>apple_store_id</key>
-		<string>403228585</string>
+		<string>123456789</string>
 		<key>application</key>
 		<integer>12345</integer>
 		<key>appstore_url</key>
@@ -139,7 +139,7 @@
 			<key>priority_build</key>
 			<false/>
 			<key>provisional</key>
-			<integer>26371</integer>
+			<integer>12345</integer>
 			<key>request_date</key>
 			<string>2013-07-23 10:58:35</string>
 			<key>status</key>
@@ -147,7 +147,7 @@
 			<key>test_status</key>
 			<integer>0</integer>
 			<key>user</key>
-			<integer>27321</integer>
+			<integer>12345</integer>
 		</dict>
 		<key>model</key>
 		<string>builds.buildlog</string>
